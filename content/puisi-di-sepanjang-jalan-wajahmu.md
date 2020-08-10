@@ -1,0 +1,9 @@
++++
+title = "Puisi Di Sepanjang Jalan, Wajahmu Berlalu Lalang Karya Risscoklat"
+date = 2019-03-23T04:19:00Z
+updated = 2019-03-24T19:58:21Z
+tags = ["Puisi", "Risscoklat"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Di Sepanjang Jalan, Wajahmu Berlalu Lalang" yang dibuat oleh <a href="https://www.kompasiana.com/risscoklat" target="_blank">Risscoklat</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Di Sepanjang Jalan, Wajahmu Berlalu Lalang"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/risscoklat" target="_blank">Risscoklat)</a> <br /><br /><i>Jalan gaduh tempat dada bersimpuh<br /><br />kata orang pelarian dari malam sepi,<br /><br />langkahku menuju<br /><br />kota larut carut-marut<br /><br />Tapi padamu lembaran kusuka<br /><br />dibuka saksama, hati-hati barangkali ada secarik sayang kelupaan<br /><br />Sebagai doa, saban hari disemoga<br /><br />"Semoga jangan pernah luntur."<br /><br />Sebab ingat teguh pelukmu tak sempat menua<br /><br />di sepanjang jalan,<br /><br />kakiku menghitung usia<br /><br />Siapa tak lagi muda<br /><br />Ataukah diriku sewaktu menemukanmu di putaran komidi<br /><br />Sedang bau malam melerai usai<br /><br />Di sepanjang jalan itu, kutatap wajahmu segala arah; mataku berubah<br /><br />selain bayangmu, fungsinya lamur<br /><br />Sebab kita ialah letup bara<br /><br />menyala-nyala tiada luka<br /><br />dan rasa anti padam dikekang umur<br /><br />Tapi di jalanan riuh,<br /><br />keramaian mengembalikan nyawaku penuh,<br /><br />"Bu, cintaku selalu butuh rengkuh di susumu yang sepuh."<br /><br />- Jawa, 13 Oktober 2017 -</i> </div></div></div>

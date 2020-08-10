@@ -1,0 +1,9 @@
++++
+title = "Puisi Sanatorium Chakhalinagara, Moskwa Karya W.S. Rendra"
+date = 2019-07-31T04:05:00Z
+updated = 2019-07-31T04:05:57Z
+tags = ["Puisi", "W.S. Rendra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Sanatorium Chakhalinagara, Moskwa" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Sanatorium Chakhalinagara, Moskwa"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>Hatiku terbaring telanjang di meja<br />di atas piring<br />di samping pisau, senduk, dan garpu,<br />selagi aku duduk di kursi putih<br />dengan koran tak bisa dibaca<br />di pangkuanku.<br />Pintu balkon yang terbuka<br />menampakkan terali yang hitam<br />serta langit yang tua renta.<br />Bayangan gelas dan teko porselin<br />dipantulkan kaca pintu.<br />Kemudian nampak pula diriku;<br />Wajahku yang sepi setelah dicuci,<br />hatiku yang rewel dan manja.<br />Siapa pula aku tunggu?<br />Siapa atau apa?<br /><br />Perawat datang dengan wajah yang heran.<br />Ia menggelengkan kepala:<br />"Kamerad tak makan?<br />"Lyuda, aku tak bisa makan.<br />Tak bisa kumakan wajah kekasih<br />tak bisa kuminum ibuku bersama susu<br />dan tak bisa kuusap mata adik dengan mentega!"<br />Ia mengangkat bahu dan bertanya.<br />Ah, ia toh tak tahu bahasa rindu!<br /><br />Apabila ia lenyap dari pintu<br />dengan langkah lunak di atas permadani<br />ia tak akan tahu<br />bahwa waktu pernah beku dan berhenti<br />segala bunyi dan warna tanpa makna<br />dan bahkan<br />bagi mimpi, duka, derita, maupun kebahagiaan<br />tak ada pintu yang membuka.</i> </div></div>

@@ -1,0 +1,9 @@
++++
+title = "Puisi Senin Karya Akemii"
+date = 2019-04-22T05:45:00Z
+updated = 2019-04-22T05:45:04Z
+tags = ["Puisi", "Puisi Hari", "Akemii"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Senin" yang dibuat oleh <a href="https://www.wattpad.com/user/-Akemii-" target="_blank">Akemii</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Senin"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/akemii" target="_blank">Akemii</a>) <br /><br /><i>Pekat malam memudar<br />Oleh sang dewi malam berwujud lampu<br />Tunduk setiap pasang mata<br />Khawatir sang dewi meredupkan cahayanya<br /><br />Pekat kedatangan tamu<br />Yang datang bersama nyanyian<br />Tariannya menimbulkan percikan<br />Sejuk menggoda tubuh terdekap selimut<br /><br />Pekat dan esok di awal pekan<br />Berlalu waktu bebasmu<br />Seragam rapi bertengger manis<br />Jiwa dan pikiran sibuk menata hari esok<br /><br />Pekat dalam hati yang bergumam<br />"Besok jangan telat"<br />"Semoga semua lancar"<br />"Semangat untuk hari esok"<br /><br />Pekat menyahut lantang<br />Jangan keluhkan seninmu<br />Siapa tahu jodohmu menyapa<br />Pada hari yang malang itu<br /><br />Para pengeluh terdiam. Akupun<br />Terpaku, namun tangan sibuk meraba ponsel<br />Koneksi tersambung, ruang maya terbuka. Jemari menari<br /><br />Tittttt. Berdetik.<br />Hari senin di pagi hari adalah primadona setiap insan<br />Viral di lorong dunia maya<br />Manis dalam keluhan bibir<br /><br />Bukan hanya senin ini.<br />Setiap senin sama<br />Setiap keluhan sama<br />Insannya yang berbeda<br /><br />Kamu lupa untuk bersyukur<br />Sebab oksigen senin<br />Masih membuatmu bernafas<br />Berhenti mengeluh!</i> </div></div>

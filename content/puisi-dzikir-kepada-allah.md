@@ -1,0 +1,9 @@
++++
+title = "Puisi Dzikir Kepada Allah Karya Jose Rizal Manua"
+date = 2018-12-25T14:17:00Z
+updated = 2018-12-25T14:17:57Z
+tags = ["Puisi", "Jose Rizal Manua"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Dzikir Kepada Allah" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Jose_Rizal_Manua" target="_blank">Jose Rizal Manua</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Dzikir Kepada Allah"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/jose-rizal-manua" target="_blank">Jose Rizal Manua)</a> <br /><br /><i>Dzikir kepada Allah</i><br /><i>Akan mengantar kekemenangan</i><br /><i>Yang penuh pesona dan keindahan</i><br /><i>Menakjubkan</i><br /><i>Sekaligus menentramkan</i><br /><i>Jiwa bagai menghirup wewangian bunga surga</i><br /><br /><i>Dzikir kepada Allah</i><br /><i>Adalah jalan pintas meraih kebahagiaan</i><br /><i>Adalah jalan pintas merengkuh kemenangan</i><br /><i>Segala keletihan jiwa</i><br /><i>Segala kehampaan nurani</i><br /><i>Luruh dalam dzikir;</i><br /><i>Dalam bertasbih kepada Allah</i><br /><i>Dalam bertahmid kepada Allah</i><br /><i>Dalam bertakbir kepada Allah</i><br /><i>Dalam bertahlil kepada Allah</i><br /><i>Maha Suci Allah</i><br /><i>Segala Puji Bagi Allah</i><br /><i>Tiada sesembahan yang patut disembah selain Allah</i><br /><i>Allah Maha Besar!</i><br /><br /><i>Dzikir kepada Allah</i><br /><i>Akan menghapus dosa</i><br /><i>Walau pun dosa itu sebanyak buih di lautan</i><br /><i>Menakjubkan</i><br /><i>Sekaligus menentramkan</i><br /><i>Jiwa bagai menghirup wewangian bunga surga</i> </div></div></div>

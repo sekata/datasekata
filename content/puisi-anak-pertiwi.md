@@ -1,0 +1,9 @@
++++
+title = "Puisi Anak Pertiwi Karya John Waromi"
+date = 2019-01-18T17:16:00Z
+updated = 2019-01-18T17:16:51Z
+tags = ["Puisi", "John Waromi"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Anak Pertiwi" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/John_Waromi" target="_blank">John Waromi</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Anak Pertiwi"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/john-waromi" target="_blank">John Waromi</a>) <br /><br /><i>Ibu mencari nene pertiwi<br />Kemana ayah<br />Terhempas prahara<br />Jalur-jalur utara<br /><br />Merindu jalan pulang<br />Dalam labirin kota<br />Terpana wajah diri<br />Ilusi kacamata<br />Terperangkap tali-tali<br />Bola-bola<br />Kata-kata<br />Tumpah darah<br /><br />Mencangkul di sebrang<br />Ladang ganyangan hiro<br />Di rimba para penyamun<br />Ka-te-pe ibu bolong-bolong<br /><br />Bangun mencari susu<br />di teras dusun<br />potret ibu hiasan paspor<br />Dalam oase gurun pasir<br /><br />Sorak kentong bambu<br />Hardik nene halau perompak<br />Burung-burung<br />Riuh genset<br />Memompa tanah air<br />Udara penuh bayang-bayang<br /><br />Dalam pentas bayang<br />Jumpa tete pertiwi<br />Tagih buah dada cucu<br />Jamu eyang  pertapa<br />Sama saling bagi mistik<br /><br />Batuk berdehem<br />Batok bergeleng<br />Tatap berair<br />Terkurung kaca-kaca<br />Tembok-tembok pertiwi<br />Nyanyian tanah<br />Tak lagi tersanjung.</i> </div><br /><div style="text-align: justify;"><b>Sumber:</b> Buku Mozaik Kata: Merunut Jejak Sastra di Tanah Papua, diterbitkan oleh Sekolah Menulis Papua, Oktober 2015.</div></div>

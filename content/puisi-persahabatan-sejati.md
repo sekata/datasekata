@@ -1,0 +1,9 @@
++++
+title = "Puisi Persahabatan Sejati Karya Anonim"
+date = 2019-01-05T21:20:00Z
+updated = 2019-01-05T21:20:49Z
+tags = ["Anonim", "Puisi", "Puisi Sahabat"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Persahabatan Sejati" yang dibuat oleh Anonim.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Persahabatan Sejati"</b></span><br />(Karya Anonim)<br /><br /><i>Sahabat sejati kan selalu di hati<br />Takkan mati meski dimusnah<br />Hidup di lembah hati yang dalam<br />Ada di sana tuk mengukir kenangan<br /><br />Sahabat sejati kau kan kukenang<br />Hingga nyawa di ujung angin<br />Hingga jasad membeku biru<br />Hingga mata mencintai hitam<br /><br />Kau takkan terlupa<br />Ribuan memori datang dan pergi<br />Tapi tentangmu kukatup di celah hati<br />Takkan hilang meski tubuhku raib ditelan kelam<br /><br />Sahabat dirimu teramat berarti<br />Banyak cerita yang bisa kucerita pada anak cucuku kelak<br />Semua tentang kita yang takkan terpisah<br />Selalu hidup di hati<br /><br />Kadang aku ingin menjadi kokoh<br />Hingga aku bisa menjadi tameng sedihmu<br />Meski akhirnya kaulah yang menjadi pelipurku<br />Kaulah yang memelukku saat dunia mencaciku<br /><br />Kau sahabat sejati yang pernah kupunya<br />Kau adalah salah satu bintang di langit yang selalu ada di hati dan doaku<br />Di hitam hidupku ini mungkin hanya kau setitik putih yang kupunya<br />Ajarkanku bahwa hidup adalah anugerah<br /><br />Terima kasih sahabat sejati<br />Untuk setiap pelukan kujadikan warna di hitam langit<br />Agar aku tak lupa hangatmu <br />Agar aku tak lupa bahwa aku punya bintang terindah di langit malam.</i> </div></div>

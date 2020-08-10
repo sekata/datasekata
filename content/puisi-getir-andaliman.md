@@ -1,0 +1,9 @@
++++
+title = "Puisi Getir Andaliman Karya Nermi Silaban"
+date = 2020-01-26T07:19:00Z
+updated = 2020-01-26T07:19:55Z
+tags = ["Puisi", "Karya", "Nermi Silaban"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Getir Andaliman" yang dibuat oleh <a href="https://nermisilaban.wordpress.com/about/" target="_blank">Nermi Silaban</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Getir Andaliman"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/nermi-silaban" target="_blank">Nermi Silaban</a>) <br /><br /><i>Basuh aku dengan percik air matamu.<br />Rindu akan menjentik jarum waktu<br />sebelum tulang usiamu bungkuk<br />atau tiang-tiang rumah mulai lapuk.<br /><br />Ingatlah hal ini, bukan dengan hati pedih,<br />bukan juga kenangan bagi si mardan[1]<br />yang lupa rahim kampung halaman.<br />Maka izinkan selat itu kuseberangi<br /><br />meski kelapa diparut berkali-kali, meski sedap<br />kuah sayur daun tumbuk, tak jua habis<br />mengenangmu bermangkuk-mangkuk.<br />Di lambungku telah kekal jerih-garammu<br /><br />juga babiat yang menggaris silsilah, hulu ke hilir<br />yang diwarisi ayah ke jantungku dan<br />jejaknya bersarang. Tetapi kau menghalau<br />setenang suara ragu: hidup sama artinya<br /><br />menghadapi pemburu. Sesaat aku tertahan,<br />ada sisa getir andaliman di lidah. Di jalan<br />setapak itu, yang berpasir dan berdebu<br />terluncur kakiku bagai beban seekor lembu<br /><br />seakan kersik abu padi di piring melamin<br />digosok tanganmu yang dingin<br />memisahkan jamuan dari meja makan<br />melepaskan aku dari sebuah ucapan.<br /><br />- 2016 -</i> </div></div>

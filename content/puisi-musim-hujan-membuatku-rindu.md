@@ -1,0 +1,9 @@
++++
+title = "Puisi Musim Hujan Membuatku Rindu Karya Alois A. Nugroho"
+date = 2019-11-02T13:05:00Z
+updated = 2019-11-02T13:05:42Z
+tags = ["Puisi", "Puisi Cinta", "Karya", "Alois A. Nugroho"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjuduAl "Musim Hujan Membuatku Rindu" yang dibuat oleh <a href="https://indonesiatera.com/alois-a-nugroho/" target="_blank">Alois A. Nugroho</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; padding: 50px; text-align: center;"><span style="font-size: 18px;"><b>"Musim Hujan Membuatku Rindu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/alois-a.-nugroho" target="_blank">Alois A. Nugroho</a>) <br /><br /><i>“Musim hujan membuatku rindu pada petang yang berwarna jingga,”<br /><br />terdengar seseorang terisak dan meneteskan gerimis yang rintik<br /><br />dan di lereng-lereng bukitmu hujan masih menjadi kabut yang membekukan stasiun dan rumah-rumah pelacuran sekali pun.<br /><br />“Aku ingin menjadi kereta uap yang dapat menghangatkan setiap stasiun di mana kebetulan kusinggah”, tapi engkau tetap terisak dan mengepulkan uap yang tak dapat kubedakan dari kabut yang terus-menerus mengendap dan mencegah petang menjadi senja yang berwarna jingga.<br /><br />Ada yang bergulung-gulung dalam gemuruh sunyi. Mungkin senja yang menguap atau angin yang berseru bahwa kabut sebentar lagi akan menjelma menjadi gerimis yang rintik. Mungkin juga hanya keretamu yang menggagapi setiap stasiun dan melaju dengan seluruh geletar rindu.<br /><br />- 2010 -</i></div></div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> Kompas, 14 Maret 2010.</div></div>

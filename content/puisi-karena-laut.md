@@ -1,0 +1,9 @@
++++
+title = "Puisi Karena Laut, Sungai Lupa Jalan Pulang Karya Saut Situmorang"
+date = 2018-12-29T01:00:00Z
+updated = 2018-12-29T01:00:01Z
+tags = ["Puisi", "Saut Situmorang"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Karena Laut, Sungai Lupa Jalan Pulang" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Saut_Situmorang" target="_blank">Saut Situmorang</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Karena Laut, Sungai Lupa Jalan Pulang"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/saut-situmorang" target="_blank">Saut Situmorang</a>) <br /><br /><i>di kota kecil itu</i><br /><i>gerimis turun</i><br /><i>dan kita basah</i><br /><i>oleh senyum dan tatapan tatapan curian</i><br /><i>yang tiba tiba mekar jadi ciuman ciuman panjang...</i><br /><br /><i>karena laut, sungai lupa jalan pulang</i><br /><i>dan batu batu hitam</i><br /><i>daun daun gugur</i><br /><i>danau kecil di lembah jauh</i><br /><i>jadi sunyi</i><br /><i>kehilangan suara jangkrik suara burung</i><br /><br /><i>gerimis yang turun</i><br /><i>mengikuti terus</i><br /><i>di jalan jalan gunung</i><br /><i>pasar hiruk pikuk</i><br /><i>bis antar kota</i><br /><i>pertunjukan pertunjukan malam yang membosankan</i><br /><i>sampai botol botol bir kosong</i><br /><i>tempat lampu neon berdustaan dengan bau tembakau</i><br /><br /><i>karena laut, sungai lupa jalan pulang</i><br /><i>dan di meja-warung basah oleh gerimis</i><br /><i>sebuah sajak setengah jadi</i><br /><i>mengabur di kertas tissue yang tipis</i> </div></div></div>

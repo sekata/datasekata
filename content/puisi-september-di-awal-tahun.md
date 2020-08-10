@@ -1,0 +1,9 @@
++++
+title = "Puisi September di Awal Tahun Karya Aled"
+date = 2019-04-29T08:06:00Z
+updated = 2019-04-29T08:06:26Z
+tags = ["Puisi", "Puisi Galau", "Puisi Bulan", "Aled"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "September di Awal Tahun" yang dibuat oleh <a href="https://www.idntimes.com/dela-feriza" target="_blank">Aled</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"September di Awal Tahun"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/aled" target="_blank">Aled</a>)<br /><br /><i>Berkali-kali ia menghembuskan nafasnya dengan sangat kasar.<br />Matanya yang mulai berkaca,<br />Bibir yang tak mampu mengucap kata,<br />Kesakitannya sangat terlihat sekali.<br /><br />Kesakitan yang tak mampu dijelaskan dengan kata,<br />Juga kesakitan yang tak perlu peluk untuk menghangatkannya.<br />Karna pikirnya,<br />Peluk terlalu  mustahil untuk didapatnya.<br /><br />Hanya meminta mendengar suaranya,<br />atau hanya sekedar bertukar pesan.<br />Sesederhana dan segampang itu,<br />Namun sangat sulit baginya.<br /><br />Ia meminta,<br />Untuk mengembalikan bulan September-nya,<br />Bulan September yang tak sempurna miliknya.<br /><br />Karna ada jiwa yang bersamanya ketika September,<br />dan jiwa itu,<br />Sangat dirindukannya di awal tahun. <br /><br />Ia sangat mengharapkan September di awal tahun.</i> </div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> <a href="https://www.idntimes.com/fiction/poetry/dela-feriza/september-di-awal-tahun-c1c2/full" target="_blank">IDN Times 2018</a>.</div></div>

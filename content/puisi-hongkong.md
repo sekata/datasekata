@@ -1,0 +1,9 @@
++++
+title = "Puisi Hongkong Karya W.S. Rendra"
+date = 2019-07-21T10:54:00Z
+updated = 2019-07-21T10:54:01Z
+tags = ["Puisi", "W.S. Rendra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Hongkong" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Hongkong"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>Di Hongkong kita tersenyum, menegursapa,<br />tapi mereka memandang kita dengan curiga.<br />Bagai si pandir atau si gila dihina.<br /><br />Di kota ini setiap orang jadi serdadu<br />kerna setiap jengkal tanah adalah medan laga.<br />Di jalan yang ramai dan di mana-mana tulisan<br />Tionghoa.<br /><br />Para pelacur menggedel dan menawarkan bencana.<br />Tuhan dan penghianatan mempunyai wajah yang<br />sama.<br /><br />Tak ada mimpi kecuali yang dahsyat dan mutlak mimpi<br />berkilat-kilat serta nyaring bagai tembaga<br />terbayang dalam dada atau pun wajah kuli yang<br />suka bengkelai<br />Tak ada orang asing di sini.<br />Setiap orang adalah asing sejak mula pertama.<br />Orang-orang seperti naga.<br />Tanpa sanak, tanpa keluarga.<br />Setiap orang bersiap dengan kukunya.<br /><br />Kita bebas untuk pembunuhan<br />tapi tidak untuk kepercayaan.<br /><br />Orang di sini sukar diduga<br />Bagai kanak-kanak suka uang dan manisan.<br />Bagai perempuan suka berlian dan pujian.<br />Bagai orang tua suka candu dan batu dadu.<br />Dan bagai rumah terkunci pintunya.<br />Sukar dibuka.<br />Tapi sekali dijumpa kuncinya<br />terbukalah pintu hati<br />manusia biasa.</i> </div></div>

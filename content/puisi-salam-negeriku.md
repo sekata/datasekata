@@ -1,0 +1,9 @@
++++
+title = "Puisi Salam Negeriku Karya Helvy Tiana Rosa"
+date = 2019-04-24T05:17:00Z
+updated = 2019-04-24T05:17:54Z
+tags = ["Puisi", "Helvy Tiana Rosa"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Salam Negeriku" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Helvy_Tiana_Rosa" target="_blank">Helvy Tiana Rosa</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Salam Negeriku"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/helvy-tiana-rosa" target="_blank">Helvy Tiana Rosa</a>) <br /><br /><i>Aku memeluk merah putih, berdiri di sini, menatap para<br />pemimpin tercintaku.<br />Kini kata-kata mereka hampir angina.<br />Mereka cari nurani di balik kursi.<br />Aku bertanya-tanya, apa mereka tahu di mana menempatkan<br />Tuhan dan rakyat dalam diri serta diskusi-diskusi itu.<br />Bisakah mereka istirah dari perseteruan, karena waktu telah<br />semakin debu. Kota-kota berteriak parau, merdeka!</i> </div></div>

@@ -1,0 +1,9 @@
++++
+title = "Puisi Cinta Sejati Karya Anonim"
+date = 2019-01-03T12:25:00Z
+updated = 2019-01-03T12:25:12Z
+tags = ["Anonim", "Puisi", "Puisi Cinta"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Puisi Cinta Sejati" yang dibuat oleh Anonim.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Puisi Cinta Sejati"</b></span><br />(Karya Anonim) <br /><br /><i>Rasa sayang yang kutulis dalam tetesan air mata ini dengan diam jernihnya selalu menatapmu bersamanya.<br /><br />Selalu ada yang tak diceritakan, langit kepada hujan.<br />Entah pagi bersambut kabut,<br />Atau mendung yang bikin murung.<br /><br />Waktu menguji kita dengan perpisahan, jarak menguji kita dengan rindu, dan air mata adalah hujan yang ikhlas jatuh di dada masing masing.<br /><br />Serupa gelombang lautan, cinta datang saat kau diam, lalu tiba-tiba hilang saat kaukejar.<br /><br />Cinta bisa memberikan cahaya<br />Pada mata yang sekalipun buta<br />Cinta juga bisa jadi petaka<br />Meski pada orang yang di surga<br />Ah, biarlah...<br />Cinta tak butuh kata-kata.<br /><br />Aku membiarkanmu menikmati fase-fase tersulit dalam menahan rindu, maka izinkan aku mewujudkan mimpimu untuk mengalami fase terindah untuk melepas rindu.<br /><br />Gemelisik daun kering menyadarkanku bahwa semestamu bukanlah aku.<br />Kerontang daun terseret angin melebur menjadi luka hatiku.<br /><br />Setelah tidak dengannya, aku akan selalu mencoba untuk tetap baik-baik saja, sebab aku percaya perasaan itu datang tanpa direncanakan, dan pasti juga akan hilang tanpa direncanakan.<br /><br />Tak semudah itu merangkai kata.<br />Jika pun sudah terangkai bibir tak bisa semudah itu mengatakannya.<br />Dan masih terlalu rumit untuk dijelaskan.<br />Diamku adalah mencintaimu!!<br /></i> </div></div>

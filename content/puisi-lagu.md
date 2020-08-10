@@ -1,0 +1,9 @@
++++
+title = "Puisi Lagu Karya Emha Ainun Nadjib"
+date = 2018-11-10T10:44:00Z
+updated = 2019-06-11T16:53:26Z
+tags = ["Puisi", "Emha Ainun Nadjib"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Lagu" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Emha_Ainun_Nadjib" target="_blank">Emha Ainun Nadjib</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Lagu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/emha-ainun-nadjib" target="_blank">Emha Ainun Nadjib)</a> <br /><br /><i>Sangatlah nyaman</i><br /><i>Serta penuh kekhusyukan</i><br /><i>Bersahabat dengan angin</i><br /><i>Dan matahari pagi</i><br /><br /><i>Wajah gadisku yang membayang</i><br /><i>Mengajakku sejenak berpejam</i><br /><i>Tunduk kepala, dan</i><br /><i>Menggumamkan salam</i><br /><br /><i>Dan embun menguap</i><br /><i>Setelah semalaman</i><br /><i>– bagai peristiwa cinta –</i><br /><i>Membungkus dedaunan lelap</i><br /><br /><i>O, biru langit!</i><br /><i>O, bukit-bukit!</i><br /><i>Saksikanlah bahwa merdeka</i><br /><i>Sangatlah mengikat</i><br /><br /><i>Bahwa jiwa</i><br /><i>Butuh saat-saat alpa</i><br /><i>Di mana roh diguncang</i><br /><i>Tercampak dari tanya dan pikiran</i><br /><br /><i>Gadisku! Wahai gadisku!</i><br /><i>Sangatlah nyaman</i><br /><i>Bersetia kasih dengan Alam</i><br /><i>Dan di bawah Iman-Nya: kita tenggelam</i><br /><br /><i>- 75 -</i> </div><div style="text-align: justify;"><br /></div><div style="text-align: justify;">Sumber: "Sesobek Buku Harian Indonesia, Empat Kumpulan Sajak", Bentang &amp; Masyarakat Poetika Indonesia/MPI, 1993.</div></div>

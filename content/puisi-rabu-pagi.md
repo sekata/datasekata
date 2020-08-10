@@ -1,0 +1,9 @@
++++
+title = "Puisi Rabu Pagi Karya Rustian Al Ansori"
+date = 2019-04-15T06:04:00Z
+updated = 2019-04-16T17:19:24Z
+tags = ["Puisi", "Puisi Hari", "Rustian Al Ansori"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Rabu Pagi" yang dibuat oleh <a href="https://www.kompasiana.com/rustian" target="_blank">Rustian Al Ansori</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Rabu Pagi"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/rustian-al-ansori" target="_blank">Rustian Al Ansori)</a> <br /><br /><i>Selalu kopi menemani pagi<br />Kusadari ini adalah candu yang mengikat diri<br />Tapi kopi telah memperkuat cinta kasih<br />Kopi juga telah membikin rindu kekasih<br />Kopi selalu ada setiap hari<br />Rabu pagi dengan secangkir kopi<br />Di dalam kopi ada pahit manis kehidupan<br />Falsafah kopi beragam seperti memaknai percintaan<br />Rabu pagi tanpa beban diri<br />Duduk santai melepas sejenak dari kepenatan negeri<br />Dengan berbagai persoalan yang intinya mementingkan diri sendiri<br />Dengan berbagai persoalan yang intinya mementingkan kelompok sendiri<br />Dengan berbagai persoalan yang intinya mementingkan Keluarga sendiri<br />Walau sedikit waktu, sudah cukup ditemani kopi<br /><br />- Sungailiat, 11/10/2017 -</i> </div></div></div><br /><div style="text-align: justify;"><b>Sumber: </b> <a href="https://www.kompasiana.com/rustian/59dd48e3cfea6f387f541172/puisi-rabu-pagi-dengan-secangkir-kopi" target="_blank">Kompasiana 2018</a>.</div></div>

@@ -1,0 +1,9 @@
++++
+title = "Puisi Malam Tahun Baru Karya Rayhandi"
+date = 2018-12-31T06:04:00Z
+updated = 2018-12-31T06:22:43Z
+tags = ["Puisi", "Rayhandi", "Puisi Tahun Baru"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Malam Tahun Baru" yang dibuat oleh Rayhandi. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Malam Tahun Baru"</b></span><br />(Karya Rayhandi) <br /><br /><i>Malam terasa memekat mata hingga buta meraba</i><br /><i>Sang cahaya sudah raib di telan hitam</i><br /><i>Mata hanya bisa menyentuh hitam</i><br /><i>Kesunyian seakan setia pada hitam yang membayang.</i><br /><br /><i>Berbeda malam ini</i><br /><i>Semuanya seakan berbeda dengan hitam-hitam sebelumnya</i><br /><i>Kesunyian dan kesepian seakan habis di telan senja</i><br /><i>Semuanya berbeda malam ini.</i><br /><br /><i>Ada ribuan cahaya kembang api di atas kubah langit</i><br /><i>Ya, hamparan langit seakan kanvas tempat kembang api bersumpah</i><br /><i>Sorak tawa menggema menggelitik telinga</i><br /><i>Sunyi seakan lari sembunyi di bawah kaki.</i><br /><br /><i>Banyak manusia yang berlalu lalang di jalan</i><br /><i>Banyak kebahagiaan yang mencumbu hati mereka</i><br /><i>Tiada yang sedih dan menangis</i><br /><i>Semuanya bahagia menyambut sang tahun 2016.</i><br /><br /><i>Tepat di persimpangan waktu</i><br /><i>Semuanya berteriak memekik senang</i><br /><i>Menggoyang bersama hati yang berbunga-bunga</i><br /><i>Semuanya terasa menyenangkan.</i><br /><br /><i>Pukul 00.00 ribuan cahaya kerlip melukis langit</i><br /><i>Suara terompet memanggil-manggil</i><br /><i>Suara lonceng menggema di ranting-ranting pohon</i><br /><i>Selamat tahun baru 2016 kawan.</i> </div></div>

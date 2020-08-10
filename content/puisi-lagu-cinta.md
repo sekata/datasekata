@@ -1,0 +1,9 @@
++++
+title = "Puisi Lagu Cinta Karya Putu Wijaya"
+date = 2019-06-28T18:57:00Z
+updated = 2019-06-28T19:00:14Z
+tags = ["Puisi", "Puisi Cinta", "Putu Wijaya"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Lagu Cinta" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Putu_Wijaya" target="_blank">Putu Wijaya</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Lagu Cinta"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/putu-wijaya" target="_blank">Putu Wijaya</a>)<br /><br /><i>Kulihat malam begitu dalam<br />Dan angin berdesah bimbang<br />Aku pun tertegun sebelum melangkah<br />Masihkah kau simpan perasaan sayang<br />yang dahsyat dalam diriku<br /><br />Kudengar senandung lamat-lamat<br />Begitu akrab dan kukenal<br />Seakan melempar ke masa silam<br />Ketika kita bertemu di ujung jalan<br />Saling membaca perasaan masing-masing<br />Dan setuju untuk sama-sama berjuang<br /><br />Haruskah cinta berakhir sedih<br />Karena kita tak memilih<br /><br />Tidak, kulihat nyala api masih mambakar<br />Ketika kita terlena dan tubuh mengucap<br />Betapa dalam perasaan bertaut<br />Bahkan semakin bersatu ketika jalan tertutup<br /><br />Dan akupun bertambah yakin<br />Tak ada yang mampu membunuh yang bertekad<br /><br />Kulompati pagar dan menyelinap masuk<br />Berdiri di depan pintu memanggil namamu<br />Mengucap salam dan sebuah janji<br />Berikan aku kesempatan menyayangi<br /><br />Kita telah bergetar disini<br />Tidak pernah berubah hanya lebih dewasa<br />Tinggal kamu siap membuka pintu<br /><br />Tiba saatnya untuk berhenti ragu</i> </div></div>

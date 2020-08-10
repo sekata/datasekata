@@ -1,0 +1,24 @@
+<!-- begin post -->
+<div class="col-lg-3 col-md-5 mb-30px card-group-bottom">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="{{ .Permalink }}">
+                {{$images := .Resources.ByType "image"}}
+                {{with $images.GetMatch "*cover*" }}
+                    <img class="img-fluid" loading="lazy" src="{{ .Params.Image | absURL }}" alt="A thumbnail image">
+                {{end}}
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title"><a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <h4 class="card-text">{{ .Summary }}</h4>
+        </div>
+        <div class="card-footer bg-white">
+          <div class="wrapfooter">
+                <div class="col-12 mt-auto relative up-zindex"><a href="{{ .Permalink }}"><button class="col-12 ripple">Lihat</button></a></div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->

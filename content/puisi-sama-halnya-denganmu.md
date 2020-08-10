@@ -1,0 +1,9 @@
++++
+title = "Puisi Sama Halnya Denganmu Karya Panji Ramdana"
+date = 2019-02-25T09:36:00Z
+updated = 2019-02-25T09:36:05Z
+tags = ["Puisi", "Puisi Cinta", "Panji Ramdana"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Sama Halnya Denganmu" yang dibuat oleh <a href="https://twitter.com/panjiramdana" target="_blank">Panji Ramdana</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Sama Halnya Denganmu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/panji-ramdana" target="_blank">Panji Ramdana</a>) <br /><br /><i>Bulan itu satu.<br />Sama halnya denganmu.<br />Bulan itu datang dalam malam.<br />Sama halnya denganmu.<br />Hanya saja bulan dalam nyata, kau dalam mimpi.<br />Dan bulan hilang ketika ku terbangun.<br />Sama halnya denganmu.<br />Namun aku tetap bahagia.<br />Bahagia bukan melulu soal kekayaan, ketenaran, kesuksesan, atau kecantikan.<br />Tapi ada dalam setiap hati masing-masing.<br />Jika bahagia dapat dibeli?<br />Aku pasti tidak akan mendapatkannya.<br />Karena telah habis oleh orang-orang kaya.<br />Jika bahagia ada di suatu tempat?<br />Aku pasti telat dan tak akan dapat menuju kesana.<br />Karena semua orang sudah lebih dulu di sana.<br />Sehingga aku kehabisan.<br />Serupamu, bahagiaku dalam kebiasaanku.<br />Sayangnya, aku tidak tahu kapan aku akan pergi.<br />Aku tidak tahu kapan kau akan pergi.<br />Dan yang kusesali adalah aku tidak tahu kapan kita akan bertemu lagi.<br />Kalau aku bisa.<br />Aku ingin mengajakmu ke tempat-tempat yang ingin aku tunjukan.<br />Sebelum kita hilang.<br />Itu pun, kalau kamu bisa.<br />Karena melihatmu, sama halnya melihat udara.</i></div></div></div>

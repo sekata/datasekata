@@ -1,0 +1,9 @@
++++
+title = "Puisi Ibunda Karya W.S. Rendra"
+date = 2019-08-10T05:12:00Z
+updated = 2019-08-10T05:12:52Z
+tags = ["Puisi", "W.S. Rendra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Ibunda" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Ibunda"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>Engkau adalah bumi, Mama<br />aku adalah angin yang kembara.<br />Engkau adalah kesuburan<br />atau restu atau kerbau bantaian.<br /><br />Kuciumi wajahmu wangi kopi<br />dan juga kuinjaki sambil pergi<br />kerna wajah bunda adalah bumi.<br />Cinta dan korban tak bisa dibagi.</i> </div></div>

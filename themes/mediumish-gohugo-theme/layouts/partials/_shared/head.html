@@ -1,0 +1,37 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta content='Vl2gjPO_YXjpibsepb_7j-sE-et8Ms2Si-jn0L0tiB8' name='google-site-verification'/>
+	<meta name="msvalidate.01" content="32F7CAC22CF222701B7B7797A02C29E0" />
+	<meta name="author" content="Redaksi Sekata">
+	<meta content='Indonesia' name='geo.placename'/>
+	<meta content='general' name='rating'/>
+	<meta content='id' name='geo.country'/>
+	<meta content='{{ "img/sekataog.jpg" | absURL }}' property='og:image'/>
+	<meta property="og:image:width" content="1000">
+	<meta property="og:image:height" content="700">
+	<meta content='en_US' property='og:locale'/>
+	<meta content='en_GB' property='og:locale:alternate'/>
+	<meta content='id_ID' property='og:locale:alternate'/>
+
+	{{ with .Site.Params.meta.description }}<meta name="description" content="sekata.web.id adalah sebuah situs web yang berisi kumpulan karya sastra, seperti cerita pendek (cerpen), pantun, peribahasa, dan puisi.">{{ end }}
+	{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="Bijak,Cerpen,Pantun,Peribahasa,Puisi">{{ end }}
+	{{ hugo.Generator }}
+	{{ with .Site.Params.logo }}
+	{{ end }}
+	<title>{{ .Title }}{{ if .IsHome }}{{ end }}</title>
+	<link rel="shortcut icon" href="{{ "img/favicon.ico" | absURL }}">
+
+	{{ template "_internal/twitter_cards.html" . }}
+	{{ template "_internal/opengraph.html" . }}
+	{{ if not .Site.Params.disableSearch }}
+	    <link href="{{ .Site.BaseURL }}css/auto-complete.css" rel="stylesheet">
+	{{ end }}
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+	 crossorigin="anonymous">
+	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+	<link href="{{ "/css/medium.css" | urlize | relURL }}" rel="stylesheet">
+	<link href="{{ "/css/additional.css" | urlize | relURL }}" rel="stylesheet">
+	<script data-ad-client="ca-pub-5687102328508298" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>

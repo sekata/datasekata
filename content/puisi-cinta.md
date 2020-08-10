@@ -1,0 +1,9 @@
++++
+title = "Puisi Cinta Karya Anonim"
+date = 2019-01-03T12:20:00Z
+updated = 2019-01-03T12:20:53Z
+tags = ["Anonim", "Puisi", "Puisi Cinta"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Puisi Cinta" yang dibuat oleh Anonim.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Puisi Cinta"</b></span><br />(Karya Anonim) <br /><br /><i>Pada tegukan kopi terakhirku, tercurah harap dan cita.<br />Moga sapa pertamamu, awal kisah kita.<br /><br />Di setiap pagi, ada yang mulai menggelitik sanubari, syair yang kau tulis mewakili isi hati, bagaimana kabarmu hari ini, Bidadari?<br /><br />Aku sempat cemburu pada awan, yang sering kali kaupandang.<br /><br />Nyatanya, hatiku tak cukup menjadi rumah bagi jiwa petualangmu<br />Nyatanya, cintaku tak mampu mendinginkan panasnya geloramu<br />Lalu aku bisa apa?<br />Mengais belas kasihanmu yang kau cecer sepanjang jalan?<br />Bukan, itu bukan cinta<br />Jika hanya membawa luka dan derita.<br /><br />Selalu ada yang melintas di kepala, entah itu syairmu, atau wajahmu yang hanya bisa kureka.<br /><br />Cinta selalu punya caranya sendiri, mempertemukan yang terbuang, atau menyatukan yang hilang.<br /><br />Setiap orang memiliki batas kewarasannya masing-masing.<br />Hanya saja, memilih bertahan, diam, atau melepaskan adalah kesepakatan hati dan akal.<br />Pun kau yang sering pulang bertandang dan pergi menghilang.<br /><br />Jika rindumu tak lagi jadi milikku.<br />Lantas, apalagi alasanku kembali ke kota ini?<br /><br />Ada jarak yang terbentang karena rindu<br />Ada cerita yang terbuat karena jarak<br />Aku percaya, ceritamu dan ceritaku akan jadi cerita kita saat kita bertemu.<br /><br />Tidurlah, sebab rindu juga butuh istirahat.</i> </div></div>

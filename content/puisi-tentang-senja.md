@@ -1,0 +1,9 @@
++++
+title = "Puisi Tentang Senja Karya Ade Rahayu"
+date = 2019-01-27T19:06:00Z
+updated = 2019-01-27T19:25:44Z
+tags = ["Puisi", "Puisi Galau", "Ade Rahayu"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Tentang Senja" yang dibuat oleh Ade Rahayu.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Tentang Senja"</b></span><br />(Karya Ade Rahayu)<br /><br /><i>Dulu.....<br />Kepada senja aku bercerita tentangmu.<br />Tentang kepergianmu.<br />Tentang kamu yang memilih berlalu dengan orang baru.<br />Tentang kamu yang menganggapnya pemenang hatimu.<br />Dan aku, hanya sampah bagimu.<br /><br />Di hadapan senja aku menangis sendu.<br />Menangisi keacuhanmu kepadaku.<br />Menangisi apa yang telah melukai hatiku.<br />Menangisi kau yang memaksakan diri untuk pergi berlalu.<br />Puisi Galau Tentang Senja Karya Ade Rahayu<br />Puisi Galau Tentang Senja Karya Ade Rahayu<br /><br />Kepada senja aku mengadu.<br />Perihal rindu yang selalu mengganggu.<br />Perihal rindu teramat menggebu.<br />Perihal rindu yang selalu tumbuh didadaku.<br /><br />Untukmu!! Rindu yang selalu mengarah kepadamu.<br /><br />Namun kau, tak juga datang kepadaku.<br />Kau tak pernah berbalik kearahku.<br />Tak peduli dengan tangisanku.<br />Kau buat aku jatuh terpuruk hingga tersungkur dihadapanmu.<br /><br />Saat ini....<br />Di hadapan senja, kau menghampiriku.<br />Menemuiku tanpa tahu malu.<br />Mdmintaku untuk kembali kepadamu.<br />Memaksaku menyerahkan hatiku kembali untukmu.<br /><br />Tapi sayang, hati ini bukan lagi untukmu. Dan aku tak mau lagi mengingat kisah pilu. Maka, berlalulah seperti dulu. Aku tak lagi butuhkanmu.<br /><br />Dan terimakasih untuk luka di masa lalu.</i> </div></div>

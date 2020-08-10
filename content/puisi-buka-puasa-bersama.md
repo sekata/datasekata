@@ -1,0 +1,9 @@
++++
+title = "Puisi Buka Puasa Bersama Karya Pical Gadi"
+date = 2019-05-15T16:28:00Z
+updated = 2019-05-15T16:28:06Z
+tags = ["Puisi", "Puisi Agama", "Pical Gadi"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Buka Puasa Bersama" yang dibuat oleh <a href="http://www.kompasiana.com/picalgadi" target="_blank">Pical Gadi</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Buka Puasa Bersama"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/pical-gadi" target="_blank">Pical Gadi</a>) <br /><br /><i>Pada pelukan pujasera<br />rinai tawa dendang sukma<br />temani menit-menit menuju berbuka.<br /><br />Anak-anak, tua, muda, wanita, lelaki<br />berkumpul bak kebun bunga di kaki bukit<br />bangun silahturahmi di bulan penuh rahmat Ilahi<br />sementara di satu sisi<br />nasi hangat dan lauk pauk merebak wangi<br />telah menanti untuk dicicipi.<br /><br />Alangkah bahagia jiwa-jiwa yang rindu asali<br />menjelang ibadah paripurna sehari lagi<br />telah terasa nikmat surgawi<br />lampaui segala nikmat duniawi.<br /><br />Alangkah bahagia jiwa-jiwa yang rindu asali<br />panjatkan syukur terindah dari lubuk hati<br />catatkan bekal untuk rumah abadi.<br /><br />- kota daeng, 28 Mei 2018 -</i> </div></div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> <a href="http://thr.kompasiana.com/picalgadi/5b0c0fd1cf01b4586249d233/puisi-buka-puasa-bersama" target="_blank">Kompasiana 2018</a>.</div></div>

@@ -1,0 +1,9 @@
++++
+title = "Puisi Kepada Kawan Karya Chairil Anwar"
+date = 2019-04-01T04:09:00Z
+updated = 2019-04-01T04:09:06Z
+tags = ["Puisi", "Chairil Anwar"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Kepada Kawan" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Chairil_Anwar" target="_blank">Chairil Anwar</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Kepada Kawan"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/chairil-anwar" target="_blank">Chairil Anwar</a>) <br /><br /><i>Sebelum ajal mendekat dan menghianat<br />Mencengkam dari belakang ketika kita tidak melihat<br />Selama masih menggelombang dalam dada darah serta rasa<br /><br />Belum bertugas kecewa dan gentar belum ada<br />Tidak lupa tiba-tiba bisa malam membenam<br />Layar merah berkibar hilang dalam kelam<br />Kawan, mari kita putuskan kini di sini<br />Ajal yang menarik kita, juga mencekik diri sendiri<br /><br />Jadi<br />Isi gelas sepenuhnya lantas kosongkan<br />Tembus jelajah dunia ini dan balikkan<br />Peluk kucup perempuan, tinggalkan kalau merayu<br />Pilih kuda yang paling liar, pacu laju<br />Jangan tembatkan pada siang dan malam<br /><br />Dan<br />Hancurkan lagi apa yang kau perbuat<br />Hilang sonder pusaka, sonder kerabat<br />Tidak minta ampun atas segala dosa<br />Tidak memberi pamit siapa saja<br /><br />Jadi<br />Mari kita putuskan sekali lagi<br />Ajal yang menarik kita, kan merasa angkasa sepi<br />Sekali lagi kawan, sebaris lagi<br />Tikamkan pedangmu hingga ke hulu<br />Pada siapa yang mengairi kemurnian madu..!!</i></div></div></div>

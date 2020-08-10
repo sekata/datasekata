@@ -1,0 +1,9 @@
++++
+title = "Puisi Nyanyian Kota Peradaban Karya Ahmadun Yosi Herfanda"
+date = 2018-11-03T20:09:00Z
+updated = 2018-11-04T06:00:11Z
+tags = ["Puisi", "Ahmadun Yosi Herfanda"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Nyanyian Kota Peradaban" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Ahmadun_Yosi_Herfanda" target="_blank">Ahmadun Yosi Herfanda</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Nyanyian Kota Peradaban"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/ahmadun-yosi-herfanda" target="_blank">Ahmadun Yosi Herfanda)</a> <br /><br /><i>- jakarta</i><br /><br /><i>di kota peradaban orang-orang mencari Tuhan</i><br /><i>di bar-bar dan bursa-bursa perempuan, bank-bank</i><br /><i>dan perkantoran. politikus pun mengaum: di mana</i><br /><i>Tuhan di mana? birokrat menjawab sambil menguap:</i><br /><i>di sini Tuhan di sini. ketika orang-orang berdatangan</i><br /><i>yang teronggok cuma berhala kekuasaan</i><br /><br /><i>meninggalkan Tuhan dalam dirinya, orang-orang</i><br /><i>makin sibuk mencari Tuhan, memanggil-manggil:</i><br /><i>Tuhan, di mana kau Tuhan? di sini Tuhan di sini</i><br /><i>jawab suara di hotel-hotel dan kelab malam. ketika</i><br /><i>orang-orang berdatangan, yang terhampar cuma</i><br /><i>kelamin-kelamin rindu bersebadan</i><br /><br /><i>di kota peradaban orang-orang mencari Tuhan</i><br /><i>hilir-mudik di jalan-jalan, berebut keluar masuk</i><br /><i>diskotik dan pasar-pasar swalayan</i><br /><i>orang-orang lupa, Tuhan dalam hati sendiri</i><br /><i>tak pernah pergi</i><br /><br /><i>- 1992 -</i></div></div>

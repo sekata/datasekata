@@ -1,0 +1,9 @@
++++
+title = "Puisi Suti Karya Widji Thukul"
+date = 2019-05-01T05:44:00Z
+updated = 2019-05-03T17:22:01Z
+tags = ["Puisi", "Puisi Kritik", "Puisi Hari Buruh", "Widji Thukul"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Suti" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Wiji_Thukul" target="_blank">Widji Thukul</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Suti"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/widji-thukul" target="_blank">Widji Thukul</a>)<br /><br /><i>Suti tidak kerja lagi<br />pucat ia duduk dekat amben-nya<br />Suti di rumah saja<br />tidak ke pabrik tidak ke mana-mana<br />Suti tidak ke rumah sakit<br />batuknya memburu<br />dahaknya berdarah<br />tak ada biaya<br /><br />Suti kusut-masai<br />di benaknya menggelegar suara mesin<br />kuyu matanya membayangkan<br />buruh-buruh yang berangkat pagi<br />pulang petang<br />hidup pas-pasan<br />gaji kurang<br />dicekik kebutuhan<br /><br />Suti meraba wajahnya sendiri<br />tubuhnya makin susut saja<br />makin kurus menonjol tulang pipinya<br />loyo tenaganya<br />bertahun-tahun dihisap kerja<br /><br />Suti batuk-batuk lagi<br />ia ingat kawannya<br />Sri yang mati<br />karena rusak paru-parunya<br /><br />Suti meludah<br />dan lagi-lagi darah<br /><br />Suti memejamkan mata<br />suara mesin kembali menggemuruh<br />bayangan kawannya bermunculan<br />Suti menggelengkan kepala<br />tahu mereka dibayar murah<br /><br />Suti meludah<br />dan lagi-lagi darah<br /><br />Suti merenungi resep dokter<br />tak ada uang<br />tak ada obat<br /><br />- solo, 27 februari 88 -</i> </div></div></div></div>

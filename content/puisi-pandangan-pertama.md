@@ -1,0 +1,9 @@
++++
+title = "Puisi Pandangan Pertama Karya Kahlil Gibran"
+date = 2018-11-17T10:33:00Z
+updated = 2018-11-19T11:51:49Z
+tags = ["Puisi", "Kahlil Gibran"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Pandangan Pertama" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Kahlil_Gibran" target="_blank">Kahlil Gibran</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Pandangan Pertama"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/kahlil-gibran" target="_blank">Kahlil Gibran)</a> <br /><br /><i>Itulah saat yang memisahkan aroma kehidupan dari kesadarannya.</i><br /><i>Itulah percikan api pertama yang menyalakan wilayah-wilayah jiwa.</i><br /><i>Itulah nada magis pertama yang dipetik dari dawai-dawai perak hati manusia.</i><br /><i>Itulah saat sekilas yang menyampaikan pada telinga jiwa tentang risalah hari-hari</i><br /><i>yang telah berlalu dan mengungkapkan karya kesadaran yang dilakukan</i><br /><i>malam, menjadikan mata jernih melihat kenikmatan di dunia dan menjadikan</i><br /><i>misteri-misteri keabadian di dunia ini hadir.</i><br /><br /><i>Itulah benih yang ditaburan oleh Ishtar, dewi cinta, dari suatu tempat yang tinggi.</i><br /><i>Mata mereka menaburkan benih di dalam ladang hati, perasaan</i><br /><i>memeliharanya, dan jiwa membawanya kepada buah-buahan.</i><br /><br /><i>Pandangan pertama kekasih adalah seperti roh yang bergerak di permukaan</i><br /><i>air mengalir menuju syurga dan bumi.</i><br /><i>Pandangan pertama dari sahabat</i><br /><i>kehidupan menggemakan kata-kata Tuhan, “Jadilah, maka terjadilah ia”</i></div></div>

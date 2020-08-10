@@ -1,0 +1,9 @@
++++
+title = "Puisi Padanya Ingin Kukatakan Jancok! Karya Poet"
+date = 2019-02-28T08:54:00Z
+updated = 2019-02-28T19:12:16Z
+tags = ["Puisi", "Poet"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Padanya Ingin Kukatakan Jancok!" yang dibuat oleh <a href="https://www.kemudian.com/users/poet" target="_blank">Poet</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Padanya Ingin Kukatakan Jancok!"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/poet" target="_blank">Poet</a>) <br /><br /><i>Jancok!<br />Kelu bibir ini menghujat.<br />Lelah, bosan, capek berkata kotor.<br />Terkadang beristighfar.<br />Khilaf, Tuhan! kataku.<br />Ampun!<br />Namun masih ku ulangi lagi,<br />Jancok!<br />Jancok!<br />Dan… Jancok!<br /><br />Tuhan, Jancok ini bukan makian.<br />Bukan pula hujatan pada takdirMu.<br />Jancok ini hanya luapan hati.<br />Hati yang lelah dikejar maling!!!!<br />Dia, Tuhan… Telah mencuri permataku!!!<br />Lalu membuang ragaku di tengah belantara.<br />Maka pantaskah jika aku memakinya, JANCOOOKKKKK!!!!!</i></div></div></div><br /><div style="text-align: justify;"><b>FYI:</b> Jancok adalah umpatan yang biasanya berarti hal buruk. Kata jancok bisa digunakan sebagai istilah yang berarti sialan, brengsek, keparat dan juga bisa digunakan sebagai ekspresi terhadap sesuatu yang mengherankan, mengejutkan bahkan menakutkan. Seiring perkembangan bahasa yang begitu cepat dan luas, kata jancok memiliki arti yang luas tergantung lawan bicara dan juga intonasinya.</div></div>

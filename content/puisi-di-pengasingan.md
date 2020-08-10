@@ -1,0 +1,9 @@
++++
+title = "Puisi Di Pengasingan Karya Iman Budhi Santoso"
+date = 2019-01-04T13:39:00Z
+updated = 2019-01-04T13:39:59Z
+tags = ["Puisi", "Iman Budhi Santoso"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Di Pengasingan" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Iman_Budhi_Santosa" target="_blank">Iman Budhi Santoso</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Di Pengasingan"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/iman-budhi-santosa" target="_blank">Iman Budhi Santoso</a>)<br /><br /><i>Sejak dulu, di pengasingan, aku selalu menyanyikan lagu<br />Diiringi bunyi kegelapan yang menyuarakan luka waktu<br />Liriknya tentang kemerdekaan yang menghilangkan ragu<br />Terdendang bersama belenggu kelabu pada kesendirianku<br /><br />Sebenarnya, aku tak sendirian, ada gelisah yang menemani<br />Juga dengung kenangan yang terdengar sendu sekali<br />Menambah merdu alunan lagu yang kunyanyikan<br />Hingga bertabuhan air mata yang berlinang<br /><br />Seringkali, sambil menyanyi, aku merindukan mentari<br />Ia selalu tersenyum padaku saat datangnya hari<br />Dan mengecupku dengan embun-embun puisi<br />Di pengasingan, mentari diusir hingga pergi<br /><br />Seharusnya, dengan sadar, aku tak boleh menyanyi<br />Di pengasingan, ada peraturan? dilarang menyanyi?<br />Bila melanggar, sepi akan menghukum dengan keji<br />Atas undang-undang fana berlandaskan lara hati<br /><br />Sayang sekali, aku tak peduli, walau aku selalu dihukum<br />Biar langit jiwaku membasah, agar hujan kasih kian turun<br />Berharap membanjiri pengasingan hingga luluh dan runtuh<br />Walau perjuangan telah mengorbankan hakikat tubuh<br /></i> </div></div>

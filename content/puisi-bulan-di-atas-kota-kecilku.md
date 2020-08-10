@@ -1,0 +1,9 @@
++++
+title = "Puisi Bulan di Atas Kota Kecilku Yang Ditinggalkan Zaman Karya Andrea Hirata"
+date = 2019-04-06T18:31:00Z
+updated = 2019-04-08T04:00:56Z
+tags = ["Puisi", "Andrea Hirata"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Bulan di Atas Kota Kecilku Yang Ditinggalkan Zaman" yang dibuat oleh <a href="http://ensiklopedia.kemdikbud.go.id/sastra/artikel/Andrea_Hirata" target="_blank">Andrea Hirata</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Bulan di Atas Kota Kecilku Yang Ditinggalkan Zaman"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/andrea-hirata" target="_blank">Andrea Hirata</a>) <br /><br /><i>Orang-asing<br />Orang asing<br />Seseorang yang asing<br />Berdiri di dalam cermin<br />Tak kupercaya aku pada pandanganku<br />Begitu banyak cinta telah mengambil dariku<br /><br />Aku kesepian<br />Aku kesepian di keramaian<br />Mengeluarkanmu dari ingatan<br />Bak menceraikan angin dari awan<br /><br />Takut<br />Takut<br />Aku sangat takut<br />Kehilangan seseorang yang tak pernah kumiliki<br />Gila, gila rasanya<br />Gila karena cemburu buta<br />Yang tersisa hanya kenangan<br />Saat kau meninggalkanku sendirian<br />Di bawah rembulan yang menyinari kota kecilku<br />yang ditinggalkan zaman<br />Sejauh yang dapat kukenang<br />Cinta tak pernah lagi datang<br /><br />Bulan di atas kota kecilku yang ditinggalkan zaman<br />Bulan di atas kota kecilku yang ditinggalkan zaman</i> </div></div><br /><div style="text-align: justify;"><b>Sumber:</b> Novel Padang Bulan.</div></div>

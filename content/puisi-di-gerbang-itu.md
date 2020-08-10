@@ -1,0 +1,9 @@
++++
+title = "Puisi Di Gerbang Itu Karya Adri Sandra"
+date = 2019-01-16T05:26:00Z
+updated = 2019-01-16T05:26:06Z
+tags = ["Puisi", "Adri Sandra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Di Gerbang Itu" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Adri_Sandra" target="_blank">Adri Sandra</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Di Gerbang Itu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/adri-sandra" target="_blank">Adri Sandra</a>) <br /><br /><i>terlampau penuh kepercayaan dalam kebodohan, buih yang membatu<br />tempat keinginan dan harapan bersila, melihat deras sungai<br />dan bayang-bayang menggelembung di arus tanpa ujung<br />“seperti itukah satu pikiran, yang menjinakkan berjuta jiwa<br />pada akhirnya, kita terpaut pada gurun tanpa penggembala?”<br /><br />tapi zaman; orang-orang berkembang dalam kepintaran, mengukir bayangan<br />tatkala khayalan dan ketidakmungkinan, jadi ada, tumbuh sejajar dengan langit<br />satu pikiran akan jadi rumit<br />berjuta jiwa dan harapan yang mereka hela, menghadang tajam<br />dalam pertanyaan dan penilaian bermacam ragam<br />“kami menginginkan kejujuran, adil dalam kebijaksanaan!”<br /><br />inilah kotaku, kota kita; segala isinya punya pikiran dan jiwa<br />berjuta jiwa menyatukan satu pikiran, ke mana kapal akan dilayarkan<br /><br />haripun mendekati gerbang itu, dari ruang-ruang negeri<br />suara-suara mendaki, bersambung-sambung ke batas tanpa ujung<br />“hai, suara-suara itu, adakah kau kenal<br />melata di puing-puing harapan yang mereka jengkal?”<br /><br />di gerbang itu, mata-mata menatap jauh<br />kota ini belum utuh.<br /><br />- Balai Baru, 11 -</i> </div></div>

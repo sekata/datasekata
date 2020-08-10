@@ -1,0 +1,9 @@
++++
+title = "Puisi Ketetapan Terindah Karya Panji Ramdana"
+date = 2019-02-25T09:45:00Z
+updated = 2019-02-28T08:49:55Z
+tags = ["Puisi", "Puisi Cinta", "Panji Ramdana"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Ketetapan Terindah" yang dibuat oleh <a href="https://twitter.com/panjiramdana" target="_blank">Panji Ramdana</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Ketetapan Terindah"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/panji-ramdana" target="_blank">Panji Ramdana</a>) <br /><br /><i>Untukmu yang berada di sana, apakah sudah ada pria yang mengkhitbahmu?<br />Jika belum, bolehkah aku untuk bertemu dengan ayahmu besok?<br />Seumpama daun menari, aku akan sangat berterimakasih jika kamu izinkan.<br />Jika pun tidak kamu izinkan, tidak apa kan jika aku tetap melangkahkan kaki ini ke rumahmu?<br /><br />Mengenai apa jawaban dan keputusanmu, aku akan menerimanya esok dengan keikhlasan hati.<br />Namun sebelum kamu mengucapkannya, aku meminta tolong untuk mempertimbangkan semuanya oleh hatimu dengan hati-hati.<br />Terimakasih... Tunggu aku esok di rumahmu.<br /><br />Sebuah penantian akan menjadi indah jika dibalut dengan rasa ikhlas penuh kesabaran sebab kita menunggunya.<br />dalam penjagaan yang sebenarnya, hati, pikiran dan tindakan yang tercermin atas semua ketentuan dariNya.<br /><br />Kelak di kemudian hari nanti, pada waktu dan cara yang telah ditetapkanNya datang.<br />Sebab, kita harus yakin itu semua adalah skenario terbaik untuk kita.<br />Sebuah kado terindah yang dinamai dengan..<br />Ketetapan terindah.</i></div></div></div>

@@ -1,0 +1,9 @@
++++
+title = "Puisi Memaafkan Cinta Yang Telah Membenci Karya Suparjono"
+date = 2019-05-23T07:18:00Z
+updated = 2019-05-23T07:18:48Z
+tags = ["Puisi", "Puisi Cinta", "Suparjono"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Memaafkan Cinta Yang Telah Membenci" yang dibuat oleh <a href="https://www.kompasiana.com/suparjono46018" target="_blank">Suparjono</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; padding: 50px; text-align: center;"><span style="font-size: 18px;"><b>"Memaafkan Cinta Yang Telah Membenci"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/suparjono" target="_blank">Suparjono</a>) <br /><br /><i>Kebencian ini selalu mengingatmu<br /><br />Seperti paku yang menancapkan gurat dalam pohon<br /><br />Akumulasi memberi bekas luka hatiku<br /><br />Tak mudah lekang meski lewat memohon <br /><br />Kecintaan ini pun sulit melupakanmu<br /><br />Detik demi detik yang terlintas wajahmu<br /><br />Seperti menyatunya gula dan manis<br /><br />Tak mudah lepas meski panas mengikis<br /><br />Hanya maaf yang menyatukan keduanya<br /><br />Merangkul menjadi laku yang harmonis<br /><br />Melintas tanpa batas sekat dunia maya<br /><br />Saling melepaskan hasrat egois<br /><br />Permaafan yang mampu menembus konsekuensi logis<br /><br />Meruntuhkan hukum standar keadilan yang ada<br /><br />Tak mengharap syarat sebagai hasrat lupakan benci dan cinta<br /><br />Menuju tingkat kemuliaan ahlak lalui jalan yang harmonis</i> </div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> <a href="https://www.kompasiana.com/suparjono46018/5b89e451677ffb6d4e0e69a3/memafaafkan-cinta-yang-telah-membenci" target="_blank">Kompasiana 2018</a>.</div></div>

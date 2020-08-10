@@ -1,0 +1,9 @@
++++
+title = "Puisi Sajak Peperangan Abimanyu Karya W.S. Rendra"
+date = 2020-01-09T10:08:00Z
+updated = 2020-01-10T06:16:57Z
+tags = ["Puisi", "Karya", "W.S. Rendra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Sajak Peperangan Abimanyu" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Sajak Peperangan Abimanyu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>(Untuk puteraku, Isaias Sadewa)<br /><br />Ketika maut mencegatnya di delapan penjuru.<br />Sang ksatria berdiri dengan mata bercahaya.<br />Hatinya damai,<br />di dalam dadanya yang bedah dan berdarah,<br />karena ia telah lunas<br />menjalani kewjiban dan kewajarannya.<br /><br />Setelah ia wafat<br />apakah petani-petani akan tetap menderita,<br />dan para wanita kampung<br />tetap membanjiri rumah pelacuran di kota?<br />Itulah pertanyaan untuk kita yang hidup.<br />Tetapi bukan itu yang terlintas di kepalanya<br />ketika ia tegak dengan tubuh yang penuh luka-luka.<br />Saat itu ia mendengar<br />nyanyian angin dan air yang turun dari gunung.<br /><br />Perjuangan adalah satu pelaksanaan cita dan rasa.<br />Perjuangan adalah pelunasan kesimpulan penghayatan.<br />Di saat badan berlumur darah,<br />jiwa duduk di atas teratai.<br /><br />Ketika ibu-ibu meratap<br />dan mengurap rambut mereka dengan debu,<br />roh ksatria bersetubuh dengan cakrawala<br />untuk menanam benih<br />agar nanti terlahir para pembela rakyat tertindas<br />- dari zaman ke zaman</i></div></div>

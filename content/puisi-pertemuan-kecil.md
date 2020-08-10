@@ -1,0 +1,9 @@
++++
+title = "Puisi Pertemuan Kecil Karya Badrul Munir Chair"
+date = 2019-01-24T08:48:00Z
+updated = 2019-01-24T08:48:14Z
+tags = ["Puisi", "Badrul Munir Chair"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Pertemuan Kecil" yang dibuat oleh Badrul Munir Chair.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Pertemuan Kecil"</b></span><br />(Karya Badrul Munir Chair)<br /><br /><i>Demi layar yang koyak, mata tombak berkarat<br />ikan-ikan menggelepar di atas geladak<br />dan lambung perahu tergores batu karang<br />akan selalu kuingat pertemuan kecil ini<br />di pintu sungai, di batas dua kampung pesisir<br />ketika perahumu masuk membelah permukaan air<br /><br />Apa kabar, teman masa kecil?<br />sudah berapa lama kita tak saling melempar<br />biji-biji gundu, berburu layang-layang<br />dan ikan-ikan kecil yang terjebak di batu karang<br />alangkah renta perpisahan ini, perpisahan laki-laki<br />yang memikul nasib masing-masing<br />meraba takdir dan saling membelakangi<br /><br />Pagi ini aku menyapamu<br />dari tepi muara yang dulu jadi pijakan<br />langkah pertama perantauanku<br />kau dengan keringat pelayaranmu,<br />belajar mengenaliku<br />wajah yang mungkin telah menjadi asing<br /><br />Demi layar yang koyak, mata tombak berkarat<br />dan sorot matamu yang semakin renta<br />akan selalu kuingat pertemuan kecil ini<br />ketika kau menyebutku dengan nama panggilan<br />yang telah lama kulupakan.</i><b> </b></div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> Media Indonesia; 31 Mei 2015.</div></div>

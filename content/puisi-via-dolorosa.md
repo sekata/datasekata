@@ -1,0 +1,9 @@
++++
+title = "Puisi Via Dolorosa Karya Gerson Poyk"
+date = 2019-11-16T09:54:00Z
+updated = 2019-11-16T09:54:43Z
+tags = ["Puisi", "Karya", "Gerson Poyk"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Via Dolorosa" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Gerson_Poyk" target="_blank">Gerson Poyk</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Via Dolorosa"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/gerson-poyk" target="_blank">Gerson Poyk</a>)<br /><br /><i>makin terasa ada kesementaraan<br />berbunga dalam dada<br />bila kematian tadi di bayang sendiri<br />tanah kelahiran selalu menerima kepedihan umur<br />sampai pun suara seru: aku pun pergi tua selalu tersua<br />matahari pasir<br /><br />aku pun ingin kembali, wahau matahari mawar<br />tinggal kini seberkas cahaya di mesin desis<br />dalam keinginan berjaga keinginan membela<br />mata yang kulalui genangan rawa tepi kota yang bengis<br />dengan sisa iman yang terkikis oleh tangis<br />kuterbang dari jiwa yang mengambang di rawa kota yang jauh<br />sebab sayatan ratap pedih diri sendiri<br />dosa dan binasa pernah padanya berkecup ramah<br />mengajak kembali ke tanah lahir yang menerima kepediman umur<br /><br />wahai udara yang berdarah pengorbanan<br />dalam segala ruang, detik dan ketiadaan<br />sampai pun terbongkar hancur satu elektron oleh pencari<br />engkau masih buat apa bagi yang belum puas terima</i></div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> <i>Dari Rote ke Iowa</i> (Kosa Kata Kita, Jakarta, 2016).</div></div>

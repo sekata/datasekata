@@ -1,0 +1,9 @@
++++
+title = "Puisi Bung Hatta Karya Fuadi"
+date = 2019-04-26T05:21:00Z
+updated = 2019-04-29T03:55:09Z
+tags = ["Puisi", "Puisi Pahlawan", "Fuadi"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Bung Hatta" yang dibuat oleh Fuadi.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Bung Hatta"</b></span><br />(Karya Fuadi)<br /><br /><i>Mengenangmu Bung<br />Aku berada di depan patungmu<br />Sebuah foto di dalam rumahmu<br />Sosok nan sederhana bersahaja<br />Terlihat jelas dari caramu memakai kacamata<br />Bola matamu bening teduh menyejukkan<br />Senyummu penawar hati nan luka<br />Arif lagi bijaksana<br /><br />Perlahan langkahkan kaki<br />Aku terpana didepan sebuah kamar<br />Berdinding bilah-bilah bambu<br />Dan sebuah tempat tidur<br />Beralaskan seprai putih<br />Sesuci hatimu untuk negeri<br />Sederhana yang melahirkan kesempurnaan<br /><br />Tak puas hati<br />Aku telusuri belakang rumahmu<br />Sebuah bakiak sengaja ku pakai<br />Agar bisa kurasakan detak-detak perjuanganmu<br />Yang selalu bergelora demi bangsa<br />Dan mata jalang ini terpukau oleh sebuah sepeda onthel tua<br />Ingin ku raih lalu menaiki<br />Mengayuhnya dengan semangat mudamu<br />Mengabarkan pada dunia<br />Indonesia tercinta<br /><br />Wahai pahlawan bangsa<br />Kini engkau telah tiada<br />Pergi untuk selama-lamanya<br />Namun jasamu<br />Perjuanganmu<br />Tak lekang oleh panas<br />Tak lapuk oleh hujan<br />Doa sanjung terukir untukmu selalu <br /><br />Bung Hatta<br />Sosok panutan segala kaum<br />Kusematkan namamu di dada, hati dan jiwaku<br />Karena jasa dan perjuanganmu kami ada<br /><br />- Bingkai Hati, 271212 -</i> </div></div></div>

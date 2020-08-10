@@ -1,0 +1,9 @@
++++
+title = "Puisi Perindu PNS Karya Anonim"
+date = 2019-11-22T07:03:00Z
+updated = 2019-11-22T07:03:25Z
+tags = ["Anonim", "Puisi", "Karya"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Perindu PNS" yang dibuat oleh Anonim.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Perindu PNS"</b></span><br />(Karya Anonim) <br /><br /><i>Ya Allah pilihkan yang terbaik untukku. <br />Jika menjadi PNS itu baik buatku, dunia &amp; akhiratku, jadikanlah aku PNS<br />Jika menjadi PNS itu tidak baik buatku, pilihkan aku profesi terbaik<br /><br />Ya Allah, jika aku menjadi PNS nanti, jadikanlah aku PNS yang baik<br />PNS yang jujur, bukan yang gemar berkongsi untuk korupsi<br />PNS yang berjiwa melayani, bukan minta dilayani<br />PNS yang ramah &amp; rendah hati, bukan yang ketus dan tinggi hati <br />PNS yang disiplin dan tepat jadwal, bukan yang gemar mendiskon waktu<br />PNS yang menjadi teladan masyarakat, bukan sampah masyarakat<br />Jadikanlah aku PNS yang baik ya Allah, <br />Agar aku menjadi penduduk surga<br /><br />Ya Allah, jika aku menjadi PNS nanti, kuatkanlah hatiku. <br />Bantulah aku menolak kecurangan<br />Bantulah hatiku menolak ajakan persekongkolan dusta <br />Bantulah hatiku menolak rayuan KKN siapapun<br /><br />Ya Allah, Engkau tahu betul, <br />Harga sembako selalu naik <br />Bensin naik<br />SPP sekolah anak juga selalu naik<br />Tapi gaji sebagai PNS sangat kecil<br />Maka bimbinglah aku mendapatkan usaha sampingan yang halal &amp; menguntungkan<br />Bantulah aku menjadi PNS yang jujur &amp; kaya. <br />PNS yang KAYA HATI (Harta, Amal &amp; Budi Pekerti)<br />Amien…</i></div></div>

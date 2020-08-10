@@ -1,0 +1,9 @@
++++
+title = "Puisi Januari Karya Banhanaa Chubbiey"
+date = 2019-04-29T04:09:00Z
+updated = 2019-04-29T04:10:24Z
+tags = ["Banhanaa Chubbiey", "Puisi", "Puisi Cinta", "Puisi Bulan"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Januari" yang dibuat oleh <a href="https://www.wattpad.com/user/BanhanaaCubbiey" target="_blank">Banhanaa Chubbiey</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Januari"</b></span><br />(Karya <a href="hhttps://www.sekata.web.id/tags/banhanaa-chubbiey" target="_blank">Banhanaa Chubbiey</a>)<br /><br /><i>Kau tahu, Tuhan tak menciptakan jarak<br />hanya saja kita yang tak saling bertemu.<br />Kau tahu, Tuhan tak menciptakan penghalang<br />hanya saja kita yang tak saling menyapa<br />Dan Kau tahu, Tuhan tak membenci keputusasaan<br />hanya saja aku yang lelah untuk berharap<br /><br />Bagi siapapun, hujan adalah musibah<br />Tapi bagiku, Tuhan menciptakan hujan adalah sebuah anugerah<br />Bagi siapapun, tangisan langit itu menyebalkan<br />Tapi bagiku, Tuhan justru sangat bahagia ketika tangisan langit itu luluh<br /><br />Jarak, hujan serta Januari.<br />Tiga hal yang mampu menjeratku kala itu.<br />Ketika hujan dengan derasnya turun, <br />Ketika aku pertama kali melihatmu<br />Dan ketika hanya jarak yang dapat tercipta antara aku dan kau<br /><br />Aku ingat, aku selalu menatap punggungmu saat menanti hujan reda<br />Aku ingat, aku se...</i> </div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> <a href="https://www.wattpad.com/story/14578762-puisi-januari" target="_blank">Wattpad 2014</a>.</div></div>

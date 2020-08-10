@@ -1,0 +1,9 @@
++++
+title = "Puisi Segumpal Rindu Kota Ngawi Karya Rudy Yuswantoro"
+date = 2019-05-11T03:19:00Z
+updated = 2019-05-11T03:23:07Z
+tags = ["Puisi", "Rudy Yuswantoro", "Puisi Kota"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Segumpal Rindu Kota Ngawi" yang dibuat oleh <a href="https://www.kompasiana.com/rudyuswantoro" target="_blank">Rudy Yuswantoro</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Segumpal Rindu Kota Ngawi"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/rudy-yuswantoro" target="_blank">Rudy Yuswantoro</a>)<br /><br /><i>setetes air mata mengalir<br />tersimpan wajah dalam kenangan<br />rindu merangkul erat di jantung kalbu<br />tak mampu kubertahan dari gejolaknya<br /><br />duh, kota Ngawi<br />pesonamu membayangi setiap waktu<br />tak nyenyak tidur dalam pembaringanku<br />resah gelisah mengurung membakar jiwa<br /><br />di kursi pasi depan teras mertua<br />antara segelas kopi dan segelintir rokok<br />setengah tujuh malam berirama suara jangkrik<br />desah panjangku terasuki kerinduan kian mendalam<br /><br />ah, benar kata si mbok<br />sejauh mana kaki di kota lain<br />tak akan hilang tempat kita dilahirkan<br />walau hanya sejenak datanglah menabur doa<br /><br />- Surabaya, 19 Juni 2017 -</i> </div></div></div><div style="text-align: justify;"><br /></div><div style="text-align: justify;"><b>Sumber:</b> <a href="https://www.kompasiana.com/rudyuswantoro/5947752fc723bdea7e6bd8be/segumpal-rindu-kota-ngawi" target="_blank">Kompasiana 2017</a>.</div></div>

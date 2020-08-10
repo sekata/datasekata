@@ -1,0 +1,9 @@
++++
+title = "Puisi Percintaan Hulu dan Muara Karya Iyut Fitra"
+date = 2019-01-20T08:42:00Z
+updated = 2019-01-21T17:35:50Z
+tags = ["Iyut Fitra", "Puisi"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Percintaan Hulu dan Muara" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Iyut_Fitra" target="_blank">Iyut Fitra</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Percintaan Hulu dan Muara"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/iyut-fitra" target="_blank">Iyut Fitra</a>)<br /><br /><i>jangan pernah kau ragukan. ini bukan sajak terakhirku, kekasih<br />sebagaimana hulu. ia selalu menyimpan rindu pada muara<br />sebuah pertemuan yang tak pernah. hanya tumpukan dari gelisah<br />lalu desir air. potongan-potongan ranting yang tersangkut<br />“sampaikan salam pada muara. aku hulu yang berkabung rindu!”<br />demikianlah senantiasa ia nyanyikan di senja-senja lembab<br />juga taring waktu yang runcing<br /><br />kisah apa yang tak kuceritakan kepadamu. meski parasmu samar<br />dan aku hanya melukismu di tebing-tebing batu<br />kubayangkan seekor belibis putih membasuh paruhnya di tepi sungai<br />ikan-ikan menggoda. hari begitu saja menjadi penjadi petang<br />“bukan. aku hanya akar tua yang lapuk direndam musim!”<br />sesungguhnya suara yang tak ingin kudengar. kau akan berlari<br />di antara ilalang dan batang-batang<br /><br />sajak ini akan terus kukirim untukmu, kekasih<br />meski ceritanya selalu saja tentang perih<br /><br />Payakumbuh</i><b> </b></div></div><b><br /></b> <br /><div style="text-align: justify;"><b>Sumber:</b> Koran Tempo, 1 April 2012.</div></div>

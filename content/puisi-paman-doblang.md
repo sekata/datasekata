@@ -1,0 +1,9 @@
++++
+title = "Puisi Paman Doblang Karya W.S. Rendra"
+date = 2019-08-30T05:36:00Z
+updated = 2019-08-30T05:36:06Z
+tags = ["Puisi", "W.S. Rendra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Paman Doblang" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Paman Doblang"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>Paman Doblang! Paman Doblang!<br />Mereka masukkan kamu ke dalam sel yang gelap.<br />Tanpa lampu. Tanpa lubang cahaya. Pengap.<br />Ada hawa. Tak ada angkasa.<br />Terkucil. Temanmu beratus-ratus nyamuk semata.<br />Terkunci. Tak tahu di mana berada.<br /><br />Paman Doblang! Paman Doblang!<br />Apa katamu?<br /><br />Ketika haus aku minum dari kaleng karatan.<br />Sambil bersila aku mengharungi waktu<br />lepas dari jam, hari dan bulan<br />Aku dipeluk oleh wibawa tidak berbentuk<br />tidak berupa, tidak bernama.<br />Aku istirah di sini.<br />Tenaga ghaib memupuk jiwaku.<br /><br />Paman Doblang! Paman Doblang!<br />Di setiap jalan mengadang mastodon dan serigala.<br />Kamu terkurung dalam lingkaran.<br />Para pengeran meludahi kamu dari kereta kencana.<br />Kaki kamu dirantai ke batang karang.<br />Kamu dikutuk dan disalahkan.<br />Tanpa pengadilan.<br /><br />Paman Doblang! Paman Doblang!<br />Bubur di piring timah<br />didorong dengan kaki ke depanmu<br />Paman Doblang, apa katamu?<br /><br />Kesadaran adalah matahari.<br />Kesabaran adalah bumi.<br />Keberanian menjadi cakerawala.<br />Dan perjuangan<br />adalah perlaksanaan kata-kata.<br /><br />- Depok, 22 April 1984 -</i> </div></div>

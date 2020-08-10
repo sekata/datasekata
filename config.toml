@@ -1,0 +1,15 @@
+baseURL = "https://www.sekata.web.id"
+languageCode = "en-us"
+title = "sekata.web.id - Sekumpulan Karya Sastra"
+theme = "mediumish-gohugo-theme"
+summaryLength = 10
+copyright = "2020"
+googleAnalytics = "UA-163312134-1"
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  publication_type = "publication_types"

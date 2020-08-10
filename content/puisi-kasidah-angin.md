@@ -1,0 +1,9 @@
++++
+title = "Puisi Kasidah Angin Karya Adri Sandra"
+date = 2019-01-16T05:41:00Z
+updated = 2019-01-16T05:41:05Z
+tags = ["Puisi", "Adri Sandra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Kasidah Angin" yang dibuat oleh <a href="https://id.wikipedia.org/wiki/Adri_Sandra" target="_blank">Adri Sandra</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Kasidah Angin"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/adri-sandra" target="_blank">Adri Sandra</a>) <br /><br /><i>di dada udara, mulailah ia berkayuh<br />meniti daun-daun, gelombang musim dan cuaca<br />membawanya mendaki dan menurun; bintik-bintik sinar lentera<br />berpijar di bulir embun, dan iapun bernyanyi, menabuh dinding-dinding batu<br />“wahai, suara itu, begitu merdu meliku antara rusuk ranting bambu”<br /><br />dalam malam, dihimbaunya purnama, cahaya telungkup<br />di atas alunan gendang kecapi: “puji syukur ya Allah”<br />suara-suara tengadah, antara kabut, menjengkal jalan yang islah<br />berdiri di satu sudut, hijau pemandangan ditebal lumut<br /><br />di sini, di kaki lembah cahaya yang putih, pohon-pohon bertasbih<br />dan angin; suaranya timbul tenggelam, pelayaran kian jauh<br />menembus warna-warna musim, di kelopak hari-hari yang tenang<br />“wahai, betapa anggun: suaramu menyulam jiwaku gurun!”<br /><br />maka iapun terus merayap, ke gunung-gunung paling sunyi<br />tapal dari seluruh pengembaraan<br />amsal dari segala gerak perjalanan<br /><br />“wahai, dalam telaga dermagamu, aku jalin dendangmu!”<br />dan angin tersipu; memisahkan mimpi dengan waktu<br />dalam hidup, sepanjang tidurku.<br /><br />- Dangau: Ramadhan, 11 -</i> </div></div>

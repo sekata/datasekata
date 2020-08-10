@@ -1,0 +1,9 @@
++++
+title = "Puisi Ziarah Karya Oka Rusmini"
+date = 2019-01-12T03:32:00Z
+updated = 2019-01-12T03:32:21Z
+tags = ["Puisi", "Oka Rusmini"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Ziarah" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Oka_Rusmini" target="_blank">Oka Rusmini</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Ziarah"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/oka-rusmini" target="_blank">Oka Rusmini</a>) <br /><br /><i>engkau menjelma kuda dengan dua kaki patah. Anak lelaki yang kau tanam dalam lautan darahmu, memasuki seluruh lubang pori-porimu. Kau biarkan tubuhmu terbuka, bahkan ketika dia minta igamu. Kau berkata:<br /><br />"petikkan api di pohon. Siapkan ranting, air suci, dan kelopak teratai. Bingkai wajahku dengan daun sirih. Juga ilalang panjang yang menutupi daging linggaku. Makanlah tanah-tanah yang kucangkul dari tubuhku. Anakku perempuan tak mahir memanggul tubuh. Serakkan tulangku di pasir" engkau menjelma elang dengan satu sayap. Mendarat dirambutku. Kau makan otakku. Seorang perempuan kau titipkan. Tubuhnya penuh ulat, mulutnya nanah. Dia siram hatiku dengan belatung. kemana anak lelakimu? katamu; "anak lelakiku telah menghabiskan seluruh tanahku. tanpa wajah, dia larutkan tubuhku di api. setiap detik uratku diperas. Kepalanya tombong, tubuhnya beringin tua" engkau meletus. meninggalkan sepotong perempuan dengan dua tunas kecil di rahimnya.<br /><br />Tak ada sesaji api membakar tubuhmu. Lelakimu telah mengunyah tanahmu. Menanamnya di tubuh anak-anaknya. Aku terus mencairkan wujudmu, bersama perempuan aku menjilati butir tanah yang kami pijak.<br /><br />- 1999 -</i> </div></div>

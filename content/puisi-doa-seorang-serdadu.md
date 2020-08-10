@@ -1,0 +1,9 @@
++++
+title = "Puisi Doa Seorang Serdadu Sebelum Berperang Karya W.S. Rendra"
+date = 2019-05-29T05:01:00Z
+updated = 2019-05-31T03:52:44Z
+tags = ["Puisi", "W.S. Rendra", "Puisi Pahlawan"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Doa Seorang Serdadu Sebelum Berperang" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Doa Seorang Serdadu Sebelum Berperang"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>Tuhanku,<br />WajahMu membayang di kota terbakar<br />dan firmanMu terguris di atas ribuan<br />kuburan yang dangkal<br /><br />Anak menangis kehilangan bapa<br />Tanah sepi kehilangan lelakinya<br />Bukannya benih yang disebar di bumi subur ini<br />tapi bangkai dan wajah mati yang sia-sia<br /><br />Apabila malam turun nanti<br />sempurnalah sudah warna dosa<br />dan mesiu kembali lagi bicara<br />Waktu itu, Tuhanku,<br />perkenankan aku membunuh<br />perkenankan aku menusukkan sangkurku<br /><br />Malam dan wajahku<br />adalah satu warna<br />Dosa dan nafasku<br />adalah satu udara.<br />Tak ada lagi pilihan<br />kecuali menyadari<br />-biarpun bersama penyesalan-<br /><br />Apa yang bisa diucapkan<br />oleh bibirku yang terjajah ?<br />Sementara kulihat kedua lengaMu yang capai<br />mendekap bumi yang mengkhianatiMu<br />Tuhanku<br />Erat-erat kugenggam senapanku<br />Perkenankan aku membunuh<br />Perkenankan aku menusukkan sangkurku<br />_____<br />Mimbar Indonesia<br />Th. XIV, No. 25<br />18 Juni 1960</i> </div></div>

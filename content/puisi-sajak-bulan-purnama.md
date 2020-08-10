@@ -1,0 +1,9 @@
++++
+title = "Puisi Sajak Bulan Purnama Karya W.S. Rendra"
+date = 2019-09-07T18:32:00Z
+updated = 2019-10-12T16:36:34Z
+tags = ["Puisi", "Karya", "W.S. Rendra"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Sajak Bulan Purnama" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Rendra" target="_blank">W.S. Rendra</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Sajak Bulan Purnama"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/w.s.-rendra" target="_blank">W.S. Rendra</a>) <br /><br /><i>Bulan terbit dari lautan.<br />Rambutnya yang tergerai ia kibaskan.<br />Dan menjelang malam,<br />wajahnya yang bundar,<br />menyinari gubug-gubug kaum gelandangan<br />kota Jakarta.<br />Langit sangat cerah.<br />Para pencuri bermain gitar.<br />dan kaum pelacur naik penghasilannya.<br />Malam yang permai<br />anugerah bagi sopir taksi.<br />Pertanda nasib baik<br />bagi tukang kopi di kaki lima.<br /><br />Bulan purnama duduk di sanggul babu.<br />Dan cahayanya yang kemilau<br />membuat tuannya gemetaran.<br /><br />“kemari, kamu!” kata tuannya<br />“Tidak, tuan, aku takut nyonya!”<br />Karena sudah penasaran,<br />oleh cahaya rembulan,<br />maka tuannya bertindak masuk dapur<br />dan langsung menerkamnya.<br /><br />Bulan purnama raya masuk ke perut babu.<br />Lalu naik ke ubun-ubun<br />menjadi mimpi yang gemilang.<br />Menjelang pukul dua,<br />rembulan turun di jalan raya,<br />dengan rok satin putih,<br />dan parfum yang tajam baunya.<br />Ia disambar petugas keamanan,<br />lalu disuguhkan pada tamu negara<br />yang haus akan hiburan.<br /><br />- Yogya, 22 Oktober 1976 -</i> </div></div>

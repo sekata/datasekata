@@ -1,0 +1,9 @@
++++
+title = "Puisi Ibu Karya D. Zawawi Imron"
+date = 2019-01-11T19:57:00Z
+updated = 2019-01-12T03:20:58Z
+tags = ["Puisi", "D. Zawawi Imron", "Puisi Ibu"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Ibu" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/D_Zawawi_Imron" target="_blank">D. Zawawi Imron</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Ibu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/d.-zawawi-imron" target="_blank">D. Zawawi Imron)</a> <br /><br /><i>kalau aku merantau lalu datang musim kemarau<br />sumur-sumur kering, daunan pun gugur bersama reranting<br />hanya mata air, air matamu ibu, yang tetap lancar mengalir<br /><br />bila aku merantau<br />sedap kopyor susumu dan ronta kenakalanku<br />di hati ada mayang siwalan memutikkan sari-sari kerinduan<br />lantaran hutangku padamu tak kuasa kubayar<br /><br />ibu adalah gua pertapaanku<br />dan ibulah yang meletakkan aku di sini<br />saat bunga kembang menyemerbak bau sayang<br />ibu menunjuk ke langi, kemudian ke bumi<br />aku mengangguk meskipun kurang mengerti<br /><br />bila kasihmu ibarat samudera<br />sempit lautan teduh<br />tempatku mandi, mencuci lumut pada diri<br />tempatku berlayar, menebar pukat dan melempar sauh<br />lokan-lokan, mutiara dan kembang laut semua bagiku<br />kalau aku ikut ujian lalu ditanya tentang pahlawan<br />namamu, ibu, yang kan kusebut paling dahulu<br />lantaran aku tahu<br />engkau ibu dan aku anakmu<br /><br />bila aku berlayar lalu datang angin sakal<br />Tuhan yang ibu tunjukkan telah kukenal<br />ibulah itu bidadari yang berselendang bianglala<br />sesekali datang padaku<br />menyuruh menulis langit biru<br />dengan sajakku</i> </div></div>

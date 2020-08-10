@@ -1,0 +1,9 @@
++++
+title = "Puisi Jumat Barokah Karya Eddo Richardo"
+date = 2019-04-15T06:13:00Z
+updated = 2019-04-15T06:13:22Z
+tags = ["Puisi", "Eddo Richardo", "Puisi Hari"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Jumat Barokah" yang dibuat oleh <a href="https://www.kompasiana.com/eddo.richardo" target="_blank">Eddo Richardo</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Jumat Barokah"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/eddo-richardo" target="_blank">Eddo Richardo)</a> <br /><br /><i>Mentari pagi menyambut Jumat Barokah<br />membiaskan sinarnya ke insan beriman<br />Menghangatkan batin yang tersiksa<br />Mencurahkan ketenangan jiwa<br />Bersama mentari menyambut Jumat barokah<br />Bertafakur menyambut kedatangannya<br />Menghias diri menanti kedatangannya<br />membasuh diri dengan wewangian<br />Tanggalkan saja kepenatan hari ini<br />Sambut dengan senyum sumringah<br />tadahkan tangan ke atas<br />berharap datangnya keberkahan<br />rasa hati ingin terus mendapatkan Jumat Barokah<br />Bertabur keberkahan mendatangkan kemaslahatan<br />Bermandikan cahaya rahmatMu<br />menasbihkan ketenangan batin<br />Selamat datang Jumat Barokah<br />kami sambut dengan tafakur diri<br />berharap ampunanmu<br />dari segala kekhilafan diri dan kealpaaan dalam mengingatMu<br />terimalah asa kami untuk berserah<br />Sucikan kami dengan barokahmu...<br /><br />- Sungailiat, 20 Oktober 2017 -</i> </div></div></div><br /><div style="text-align: justify;"><b>Sumber: </b> <a href="https://www.kompasiana.com/eddo.richardo/59e9652ff133447dce496de2/jumat-barokah?page=all" target="_blank">Kompasiana 2017</a>.</div></div>

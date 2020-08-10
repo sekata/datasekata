@@ -1,0 +1,9 @@
++++
+title = "Puisi Membuka Ingatan Karya Dhinar Dewi Istini"
+date = 2019-05-11T08:55:00Z
+updated = 2019-05-12T08:31:24Z
+tags = ["Puisi", "Puisi Kota", "Dhinar Dewi Istini"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Gadis Kota Madiun" yang dibuat oleh Dhinar Dewi Istini.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Gadis Kota Madiun"</b></span><br />(Karya Dhinar Dewi Istini)<br /><br /><i>: Solo, semoga lebih baik dan antik dari tahun ‘98<br /><br />/1/<br />Menyusuri malam dalam redha Gusti<br />Pada kota tradisi yang tak kenal mati<br />Berdiri musabab runtuhnya Mataram Kartasura<br />Tahun 1743 oleh serangan punggawa Cina<br /><br />/2/<br />Menjejak kaki lagi di Surakarta<br />Membuka ingatan masa lama yang tak terduga<br />Mengena misteri, nostalgia gila usia muda<br />Tahun ‘98 yang memporak-poranda<br />Solo lengah, kehilangan watak halusnya<br /><br />Tertinggal ingatan yang dimakan masa<br />Korban pengaruh politik terdampar merana<br />Mengerang kesakitan, ditindas ketakutan<br />Suara hati dibungkam<br />Pembakaran bangunan dihalalkan<br />Penjarahan menyisa luka luar - dalam<br /><br />/3/<br />Solo berseri! Tersenyumlah kini dari hati!<br />Tak penting acungkan emosi!<br />Sejatinya dirimu suci dilindungi Gusti<br />Mari berbenah diri untuk negeri!<br /><br />- Kartasura, 15 Januari 2014 -</i></div></div></div><div style="text-align: justify;"><b>Sumber: </b><a href="http://nadidewi.blogspot.com/2014/06/puisi-dhinar-solo-dalam-puisi.html" target="_blank">Blogger 2014</a>.</div></div>

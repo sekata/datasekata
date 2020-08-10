@@ -1,0 +1,9 @@
++++
+title = "Puisi Waisak Penuh Damai Karya Suyadi"
+date = 2019-05-07T04:13:00Z
+updated = 2019-05-07T04:13:52Z
+tags = ["Puisi", "Puisi Agama", "Suyadi"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Waisak Penuh Damai" yang dibuat oleh Suyadi.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Waisak Penuh Damai"</b></span><br />(Karya Suyadi)<br /><br /><i>Ketika Sang mentari bersemayam di singgasana sebelah barat<br />Semburat jingga merona di wajah sang mayapada<br />Waktupun bergulir dan berlalu meninggalkan dunia dalam kegelapan<br /><br />Seberkas sinar kuning keemasan menjulang<br />Memberi harap pada insan-insan yang diliputi kegelisahan<br />Menyisihkan segala keraguan, menyibak misteri kehidupan<br /><br />Bulat sempurna sang rembulan di bulan Waisaka<br />Mengiringi  genta yang mengalun mendayu-dayu<br />Bersenandung paritta-paritta suci<br />Mengalirkan sajak-sajak penuh kedamaian<br />Menuntun insan melatih diri<br />Dengan semangat untuk mawas diri<br /><br />Rembulan purnama di bulan Waisaka<br />Mengingatkan tiga peristiwa suci<br />Tentang sang Tahtagata<br />Kini …..<br />Dua ribu lima ratus lima puluh enam tahun lamanya<br />Buddha Parinibbana<br /><br />Dharmanya nan Agung dan Mulia<br />Menjelma menjadi embun dikala Dukha<br />Mengkristal dalam Sanubari</i> </div></div></div><b><br /></b> <br /><div style="text-align: justify;"><b>Sumber:</b> <a href="http://hansuyadi.blogspot.com/2012/05/waisak-penuh-damai.html" target="_blank">Blog Suyadi 2012</a>.</div></div>

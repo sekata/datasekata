@@ -1,0 +1,9 @@
++++
+title = "Puisi Kutanam Benih Kutanam Pedih Karya A. Rahim Qahhar"
+date = 2019-08-22T16:44:00Z
+updated = 2019-08-22T16:44:49Z
+tags = ["A. Rahim Qahhar", "Puisi"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Kutanam Benih Kutanam Pedih" yang dibuat oleh <a href="https://harian.analisadaily.com/rebana/news/bagiku-a-rahim-qahhar-adalah-guru/146880/2015/06/27" target="_blank">A. Rahim Qahhar</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Kutanam Benih Kutanam Pedih"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/a.-rahim-qahhar" target="_blank">A. Rahim Qahhar</a>)<br /><br /><i>Kutanam bibit kutanam benih<br />kutanam pedih kutanam sedih kutanam jerih kutanam risih<br />kutanam padi berhari-hari<br />kutanam budi berpanen duri<br /><br />kutanam sirih rangkai berangkai<br />pupuk kukasih dihantam badai<br />ulah siapa ulah siapa<br /><br />Kucangkul kurangkul tanah merdeka ini<br />begitu rentan mengusung beban<br />kusemai kubelai ranah sawah ini<br />bak perawan menyulam kelam<br />Kicau burung telah terkunci<br />saat pohon randu berkabung nyeri<br />menggemuruh guruh tengah hari<br />kilat melesat di ubun api<br />Kusimpan petir di relung dada<br />tak sempat bertanya kenapa<br />sang dara belum datang juga<br />mengantar cangkir dan bejana<br />barangkali rindunya terkapar<br />disandera<br /><br />Kutanam bibit kutanam benih<br />kutanam luka kutanam noda kutanam duka kutanam dosa<br />kutanam ketan tumbuh ilalang<br />curah hujan terasa garam<br /><br />kutanam cabai dekat pematang<br />belum kutuai banjir pun datang<br />ulah siapa ulah siapa<br /><br />- Medan, 2802 -</i></div></div></div>

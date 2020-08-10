@@ -1,0 +1,9 @@
++++
+title = "Puisi Cipasung Karya Acep Zamzam Noor"
+date = 2019-01-17T11:21:00Z
+updated = 2020-02-12T05:55:44Z
+tags = ["Puisi", "Acep Zamzam Noor"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Cipasung" yang dibuat oleh <a href="http://ensiklopedia.kemdikbud.go.id/sastra/artikel/Acep_Zamzam_Noer" target="_blank">Acep Zamzam Noor</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Cipasung"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/acep-zamzam-noer" target="_blank">Acep Zamzam Noor</a>)<br /><br /><i>Di lengkung alis matamu sawah-sawah menguning<br />Seperti rambutku padi-padi semakin merundukkan diri<br />Dengan ketam kupanen terus kesabaran hatimu<br />Cangkulku iman dan sajadahku lumpur yang kental<br />Langit yang menguji ibadahku meneteskan cahaya redup<br />Dan surauku terbakar kesunyian yang dinyalakan rindu<br /><br />Aku semakin mendekat pada kepunahan yang disimpan bumi<br />Pada lahan-lahan kepedihan masih kutanam bijian hari<br />Segala tumbuhan dan pohonan membuahkan pahala segar<br />Bagi pagar-pagar bambu yang dibangun keimananku<br />Mendekatlah padaku dan dengarkan kasidah ikan-ikan<br />Kini hatiku kolam yang menyimpan kemurnianmu<br /><br />Hari esok adalah perjalananku sebagai petani<br />Membuka ladang-ladang amal dalam belantara yang pekat<br />Pahamilah jalan ketiadaan yang semakin ada ini<br />Dunia telah lama kutimbang dan berulang kuhancurkan<br />Tanpa ketam masih ingin kupanen kesabaranmu yang lain<br />Atas sajadah lumpur aku tersungkur dan terkubur</i></div></div></div></div>

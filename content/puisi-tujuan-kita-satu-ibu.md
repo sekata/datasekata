@@ -1,0 +1,9 @@
++++
+title = "Puisi Tujuan Kita Satu Ibu Karya Widji Thukul"
+date = 2019-02-07T04:03:00Z
+updated = 2019-02-07T04:03:05Z
+tags = ["Puisi", "Widji Thukul"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Tujuan Kita Satu Ibu" yang dibuat oleh <a href="https://ensiklopedia.kemdikbud.go.id/sastra/artikel/Wiji_Thukul" target="_blank">Widji Thukul</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Tujuan Kita Satu Ibu"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/widji-thukul" target="_blank">Widji Thukul</a>) <br /><br /><i>kutundukkan kepalaku,<br />bersama rakyatmu yang berkabung<br />bagimu yang bertahan di hutan<br />dan terbunuh di gunung<br />di timur sana<br />di hati rakyatmu,<br />tersebut namamu selalu<br />di hatiku<br />aku penyair mendirikan tugu<br />meneruskan pekik salammu<br />"a luta continua."<br /><br />kutundukkan kepalaku<br />kepadamu kawan yang dijebloskan<br />ke penjara negara<br />hormatku untuk kalian<br />sangat dalam<br />karena kalian lolos dan lulus ujian<br />ujian pertama yang mengguncangkan<br /><br />kutundukkan kepalaku<br />kepadamu ibu-bu<br />hukum yang bisu<br />telah merampas hak anakmu<br /><br />tapi bukan hanya anakmu ibu<br />yang diburu dianiaya difitnah<br />dan diadili di pengadilan yang tidak adil ini<br />karena itu aku pun anakmu<br />karena aku ditindas<br />sama seperti anakmu<br /><br />kita tidak sendirian<br />kita satu jalan<br />tujuan kita satu ibu:pembebasan!<br /><br />kutundukkan kepalaku<br />kepada semua kalian para korban<br />sebab hanya kepadamu kepalaku tunduk<br /><br />kepada penindas<br />tak pernah aku membungkuk<br />aku selalu tegak<br /><br />- 4 Juli 1997 -</i></div></div>

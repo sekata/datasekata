@@ -1,0 +1,9 @@
++++
+title = "Puisi Ayah Karya Fithinia Mafti"
+date = 2019-01-13T05:04:00Z
+updated = 2019-01-13T06:48:29Z
+tags = ["Puisi", "Fithinia Mafti", "Puisi Ayah"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "Ayah" yang dibuat oleh <a href="https://www.instagram.com/fm.pict/" target="_blank">Fithinia Mafti</a>. </div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"Ayah"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/fithinia-mafti" target="_blank">Fithinia Mafti</a>) <br /><br /><i>Tiba suatu waktu keteguhan mulai terkikis oleh pedihnya rasa rindu<br />Tatkala kaki yang dulu mantap melangkah berbekal cita nan mulia, kini menuju arah sebaliknya<br />Menyerah tak kunjung jua, bertahan namun tak lagi mampu<br /><br />Saat tubuh terbaring lelah dengan sejuta tanggung jawab<br />Saat hati bersenandung lirih merasakan pahitnya hidup di tanah rantau<br />Saat itu pula pesan Ayah terngiang dan kembali menguatkan<br /><br />Tuhan,<br />Andai dapat kau kabulkan seuntai kata dari sebuah pengharapan<br />Tempatkan aku kembali di tengah surga yang sempat ku acuhkan keberadaannya<br />Yang begitu mudahnya kusandingkan dengan sebuah nilai harga diri<br />Kini hatiku mengiyakan jika tak ada yang lebih berharga selain ia<br />Tak ada tempat teraman selain dari tubuhnya<br /><br />Kini, biarlah sendu tersimpan rapi dengan semestinya<br />Berputar dan terus mengintai panjangnya detik perjalanan<br />Hingga pada akhirnya, toga membawa ku kembali pada Ayah di kampung halaman</i> </div></div><b><br /></b><b> </b> <b>Sumber:</b> <a href="http://sumsel.tribunnews.com/2018/12/02/puisi-ayah-karya-fithinia-mafti" target="_blank">Tribunnews</a>.</div>

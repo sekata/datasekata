@@ -1,0 +1,9 @@
++++
+title = "Puisi May Day Karya Hendra Prasetya"
+date = 2019-05-01T05:39:00Z
+updated = 2019-05-01T05:39:19Z
+tags = ["Puisi", "Puisi Kritik", "Puisi Hari Buruh", "Hendra Prasetya"]
+draft = false
++++
+
+<div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div dir="ltr" style="text-align: left;" trbidi="on"><div style="text-align: justify;">Berikut ini adalah puisi berjudul "May Day" yang dibuat oleh <a href="https://kumparan.com/hendra-prasetya" target="_blank">Hendra Prasetya</a>.</div><br /><div style="background: #FAFAFA; font-size: 14px; height: auto; margin: 0 auto; padding: 50px; text-align: center; width: auto;"><span style="font-size: 18px;"><b>"May Day"</b></span><br />(Karya <a href="https://www.sekata.web.id/tags/hendra-prasetya" target="_blank">Hendra Prasetya</a>)<br /><br /><i>Kata orang, negeri kami adalah surga dunia. Nyatanya, kami makan pun masih meminta tetangga. Padahal pejabat lagi asik tidur di hotel bintang lima. <br /><br />Negeri kami berjiwa demokrasi, tapi yang beda pendapat dikebiri bahkan diaborsi.<br /><br />Yang berotak kritis ditikam habis. Yang pejabat menjadi moderat, yang buruh hanya bisa mengeluh. <br /><br />Maafkan kami, kami hanya punya emas, gas, minyak, batubara. Tapi semuanya milik negara yang membuat kami semakin lara.<br /><br />Laut kami kaya akan mutiara, tapi nyatanya saudara kami di pelosok sana tidak pernah ada yang menikmati bangku sarjana. <br /><br />Aku tidak sedang melawan, aku hanya lelaki berumur belasan. Makan saja masih kesusahan, aku hanya berpuisi, semoga aku tidak dihabisi, oleh petinggi negeri.</i> </div></div></div></div><br /><div style="text-align: justify;"><b>Sumber:</b> <a href="https://kumparan.com/hendra-prasetya/puisi-may-day" target="_blank">Kumparan 2017</a>.</div></div>
